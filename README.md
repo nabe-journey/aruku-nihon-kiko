@@ -1,6 +1,6 @@
-# 現在のローカル改修：2.3.4 公開前最終確認版（未公開）
+# 歩く日本紀行 2.3.4（GitHub Pages 公開版）
 
-全画像を含む一式です。最新の調査・件数・制限は `docs/UPDATE_REPORT.md`、公開前チェックは `docs/PRE_GITHUB_CHECK_2.3.4.md`、全58篇の点検概要は `docs/HIZAKURIGE_FINAL_REVIEW.md`、再開手順は `docs/RESUME.md` を参照してください。直接HTMLを開かず、Pythonの静的サーバーまたはGitHub Pages相当の静的配信で確認してください。
+公開しているアプリ一式です。最新の調査・件数・制限は `docs/UPDATE_REPORT.md`、公開前チェックは `docs/PRE_GITHUB_CHECK_2.3.4.md`、全58篇の点検概要は `docs/HIZAKURIGE_FINAL_REVIEW.md`、再開手順は `docs/RESUME.md` を参照してください。直接HTMLを開かず、Pythonの静的サーバーまたはGitHub Pages相当の静的配信で確認してください。
 
 # 歩く日本紀行 2.3.4
 
