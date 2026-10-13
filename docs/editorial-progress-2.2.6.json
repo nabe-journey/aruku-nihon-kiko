@@ -1,0 +1,410 @@
+{
+  "version": "2.2.6-editorial-continuation",
+  "baseline": "2.2.5-editorial-checkpoint",
+  "chaptersTotal": 58,
+  "priorChapterRevisions": 10,
+  "newlyEditedChapters": 17,
+  "cumulativeEditedChapters": 27,
+  "cumulativeIds": [
+    "kawasaki",
+    "kanagawa",
+    "totsuka",
+    "fujisawa",
+    "bath",
+    "hakone",
+    "mishima",
+    "kanbara",
+    "fuchu",
+    "fujieda",
+    "nissaka",
+    "kakegawa",
+    "fukuroi",
+    "mitsuke",
+    "futagawa",
+    "yoshida",
+    "goyu",
+    "narumi",
+    "kuwana",
+    "ise-shiroko",
+    "ise-matsusaka",
+    "ise-shrine",
+    "kyoto-buddha",
+    "kyoto-clothes",
+    "kyoto-ladder",
+    "osaka-arrival",
+    "osaka-lottery"
+  ],
+  "remainingWithoutTargetedEditorialChanges": 31,
+  "reviewType": "確認できた原文の省略箇所に基づく増補・具体的な誤りの修正。すべての段落・全伝本を完全校合したわけではない",
+  "illustrationStatus": "既存27点を維持。新規原作挿絵0点（原画像を取得・目視照合できず）",
+  "newChanges": [
+    {
+      "id": "goyu",
+      "title": "友だちを、狐だと思い込む",
+      "originalKeys": [
+        "04-05"
+      ],
+      "sourceEvidence": [
+        "はやふすまひとへとなり",
+        "ふすまがあちらのまへたをれる",
+        "手水にゆくとつて",
+        "旅人"
+      ],
+      "reason": "次篇「赤坂」で旅人たちが話題にする前夜の新婚夫婦のぞき見騒動を復元",
+      "priorParagraphs": 4,
+      "currentParagraphs": 7,
+      "addedParagraphs": 3,
+      "changedIllustrationPosition": [
+        [
+          "book-264",
+          2
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "kakegawa",
+      "title": "背負ってもらう相手をすり替え",
+      "originalKeys": [
+        "03-06"
+      ],
+      "sourceEvidence": [
+        "さつきの座頭めらが",
+        "かのざとうのさけをのんでいる",
+        "ワアイ座頭どんのさけ",
+        "茶が二合で六十四文"
+      ],
+      "reason": "川越し直後に同じ座頭へ酒を横取りする第二の失敗談が続くため追補",
+      "priorParagraphs": 5,
+      "currentParagraphs": 8,
+      "addedParagraphs": 3,
+      "changedIllustrationPosition": [
+        [
+          "book-191",
+          2
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "futagawa",
+      "title": "抜いてみたら、竹の刀",
+      "originalKeys": [
+        "04-03"
+      ],
+      "sourceEvidence": [
+        "いい竹が捨てある",
+        "坊主持にしよふ",
+        "びくにが三人づれ",
+        "名ごやのほうへまいります",
+        "御らんのとふり"
+      ],
+      "reason": "二川から吉田までの荷物担ぎと比丘尼の一幕が既存抄訳では全省略",
+      "priorParagraphs": 4,
+      "currentParagraphs": 7,
+      "addedParagraphs": 3,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "yoshida",
+      "title": "義経一行と、芝居を信じた村",
+      "originalKeys": [
+        "04-04"
+      ],
+      "sourceEvidence": [
+        "赤坂までわつちがさきへ",
+        "宿から向ひの人を出させて",
+        "たぼのありそうな内"
+      ],
+      "reason": "御油篇で喜多八が先行している理由を原文に基づき明示",
+      "priorParagraphs": 4,
+      "currentParagraphs": 5,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "fukuroi",
+      "title": "江戸の通人を気取ったが",
+      "originalKeys": [
+        "03-07"
+      ],
+      "sourceEvidence": [
+        "さんまの骨を咽へ",
+        "犬のくそをつかんだ",
+        "あまざけをくらつて"
+      ],
+      "reason": "自慢話が互いの失敗暴露に転じる具体的な原文エピソードを回復",
+      "priorParagraphs": 5,
+      "currentParagraphs": 6,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "mitsuke",
+      "title": "大所帯の旦那、米の値段に詰まる",
+      "originalKeys": [
+        "03-08"
+      ],
+      "sourceEvidence": [
+        "百ケ日には",
+        "おやどをお願ひ申ます",
+        "こんにやくのしらあへ"
+      ],
+      "reason": "原文末尾の百か日という食事の冗談を回復",
+      "priorParagraphs": 5,
+      "currentParagraphs": 6,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "ise-shiroko",
+      "title": "落ちた煙草入れが、するすると",
+      "originalKeys": [
+        "05-04"
+      ],
+      "sourceEvidence": [
+        "わつちやア、十辺舎一九",
+        "南瓜の胡麻汁",
+        "雲津でござります",
+        "麁服を着いたして"
+      ],
+      "reason": "次篇「津・雲出」の偽作者事件が始まる経緯を回復",
+      "priorParagraphs": 4,
+      "currentParagraphs": 6,
+      "addedParagraphs": 2,
+      "changedIllustrationPosition": [
+        [
+          "book-339",
+          1
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "ise-matsusaka",
+      "title": "歌の稽古と、後ろからの竹",
+      "originalKeys": [
+        "05-06"
+      ],
+      "sourceEvidence": [
+        "古市をおごろかいな",
+        "むなさんようして",
+        "ここの酒代をはらひ"
+      ],
+      "reason": "馬上の争いから山田までの同行へつながる約束を原文に即して回復",
+      "priorParagraphs": 4,
+      "currentParagraphs": 5,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "fuchu",
+      "title": "深い川を、肩車で",
+      "originalKeys": [
+        "02-06"
+      ],
+      "sourceEvidence": [
+        "二丁町とやらへ見物",
+        "かうしさきをうろついて",
+        "伝馬町さして急ぎ"
+      ],
+      "reason": "「出かけた」の一語で省略されていた安倍川町への夜の訪問を原文に即して説明",
+      "priorParagraphs": 5,
+      "currentParagraphs": 6,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [
+        [
+          "book-143",
+          3
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "fujieda",
+      "title": "ご馳走のはずが、勘定は誰に",
+      "originalKeys": [
+        "03-02"
+      ],
+      "sourceEvidence": [
+        "九百長五十でござります",
+        "かたりにあつたとおもつて"
+      ],
+      "reason": "原文の勘定額と反撃の帰結を明記、相手の内心は断定しない",
+      "priorParagraphs": 5,
+      "currentParagraphs": 6,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [
+        [
+          "book-166",
+          2
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "bath",
+      "title": "五右衛門風呂で大騒動",
+      "originalKeys": [
+        "01-10"
+      ],
+      "sourceEvidence": [
+        "女が後に忍んでくる",
+        "おへねへ瘡かき",
+        "雇人でございますから",
+        "北八が奸計"
+      ],
+      "reason": "五右衛門風呂の騒動後の喜多八の仕返しとオチを原文から回復",
+      "priorParagraphs": 5,
+      "currentParagraphs": 7,
+      "addedParagraphs": 2,
+      "changedIllustrationPosition": [
+        [
+          "book-71",
+          3
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "hakone",
+      "title": "三百文の品を、四百文で",
+      "originalKeys": [
+        "01-10"
+      ],
+      "sourceEvidence": [
+        "やぶにらめだ",
+        "さいのかはら",
+        "御関所を打過て"
+      ],
+      "reason": "過払いの理由の種明かしと箱根の関所通過を追補",
+      "priorParagraphs": 4,
+      "currentParagraphs": 5,
+      "addedParagraphs": 1,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "kyoto-clothes",
+      "title": "安い綿入れの背に、大きな紋",
+      "originalKeys": [
+        "07-01"
+      ],
+      "sourceEvidence": [
+        "此大根といふ事は",
+        "盲禄",
+        "しばいを出てぎをんまち"
+      ],
+      "reason": "幟を染め直した綿入れが芝居小屋でも笑いの種となる後半の滑稽場面を回復",
+      "priorParagraphs": 4,
+      "currentParagraphs": 6,
+      "addedParagraphs": 2,
+      "changedIllustrationPosition": [],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "osaka-arrival",
+      "title": "同行四十七人、と言ってみる",
+      "originalKeys": [
+        "08-01"
+      ],
+      "sourceEvidence": [
+        "弐百四拾八せん",
+        "目の見へんふりして",
+        "わしが女房",
+        "骨だな",
+        "高野へおさめに"
+      ],
+      "reason": "菓子の盗み食い失敗、按摩の偽装、相部屋の遺骨の誤食を原文から回復",
+      "priorParagraphs": 4,
+      "currentParagraphs": 8,
+      "addedParagraphs": 4,
+      "changedIllustrationPosition": [
+        [
+          "book-571",
+          4
+        ],
+        [
+          "book-566",
+          1
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "osaka-lottery",
+      "title": "百両は、十二支が違っていた",
+      "originalKeys": [
+        "08-03"
+      ],
+      "sourceEvidence": [
+        "河四郎のかたに",
+        "木曾路にかかり",
+        "衣類などあたらしく"
+      ],
+      "reason": "正編の結末で省略された大坂から帰国までの過程と宿の主人の援助を回復",
+      "priorParagraphs": 4,
+      "currentParagraphs": 6,
+      "addedParagraphs": 2,
+      "changedIllustrationPosition": [
+        [
+          "book-627",
+          1
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "ise-shrine",
+      "title": "参宮の駕籠が、違う組へ",
+      "originalKeys": [
+        "05-09"
+      ],
+      "sourceEvidence": [
+        "五両も出さんせんけりや",
+        "藤屋を昼だちとして",
+        "うぢはしといふのか",
+        "血のみちはここの内儀",
+        "うちのさんぷとまちがへ",
+        "妻も安産いたしました"
+      ],
+      "reason": "伊勢篇が駕籠の取り違えだけで止まっており、再会・内宮外宮参拝・産婆の勘違いという五編追加の結末を省略していたため追補",
+      "priorParagraphs": 4,
+      "currentParagraphs": 8,
+      "addedParagraphs": 4,
+      "changedIllustrationPosition": [
+        [
+          "book-375",
+          1
+        ]
+      ],
+      "checkLevel": "原文の明示箇所と改訂文を照合。全原文の逐語校合ではない"
+    },
+    {
+      "id": "kuwana",
+      "title": "半日交替の旦那と供、熱い蛤",
+      "originalKeys": [
+        "05-01"
+      ],
+      "sourceEvidence": [
+        "酒手をこつちへ",
+        "壱貫四百五十文"
+      ],
+      "reason": "駕籠代を交渉したのは喜多八ではなく弥次郎兵衛。人物帰属の誤りを修正",
+      "priorParagraphs": 4,
+      "currentParagraphs": 4,
+      "addedParagraphs": 0,
+      "checkLevel": "原文の話者を確認して既存抄訳の誤りを訂正"
+    }
+  ],
+  "limitations": [
+    "2.2.5からの追加改訂は11篇。原文の注目場面に限定した編集で、全58篇の逐語校訂ではない",
+    "他の版本や原作図の追加取得・図像照合は未実施",
+    "本文改訂後の実機Android/iOSおよびブラウザ操作・オフライン検証は未実施"
+  ]
+}

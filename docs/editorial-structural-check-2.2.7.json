@@ -1,0 +1,99 @@
+{
+  "version": "2.2.7-editorial-continuation",
+  "result": "passed",
+  "checks": [
+    {
+      "check": "58 chapters",
+      "passed": true
+    },
+    {
+      "check": "only allowed 8 readings changed",
+      "passed": true
+    },
+    {
+      "check": "cumulative 35 edited",
+      "passed": true
+    },
+    {
+      "check": "all other fields unchanged",
+      "passed": true
+    },
+    {
+      "check": "chapter order/id/location unchanged",
+      "passed": true
+    },
+    {
+      "check": "route and history IDs unchanged",
+      "passed": true
+    },
+    {
+      "check": "27 original image relations retained",
+      "passed": true
+    },
+    {
+      "check": "all image anchors valid",
+      "passed": true
+    },
+    {
+      "check": "image meta and 44 Hiroshige explanations unchanged",
+      "passed": true
+    },
+    {
+      "check": "originals and other course untouched",
+      "passed": true
+    },
+    {
+      "check": "storage/map/utils unchanged",
+      "passed": true
+    },
+    {
+      "check": "image file names and contents unchanged",
+      "passed": true
+    },
+    {
+      "check": "8 added paragraphs",
+      "passed": true
+    },
+    {
+      "check": "source text markers exist",
+      "passed": true
+    },
+    {
+      "check": "cache versions identical",
+      "passed": true
+    },
+    {
+      "check": "js/app.js syntax valid",
+      "passed": true
+    },
+    {
+      "check": "js/storage.js syntax valid",
+      "passed": true
+    },
+    {
+      "check": "js/map.js syntax valid",
+      "passed": true
+    },
+    {
+      "check": "js/utils.js syntax valid",
+      "passed": true
+    },
+    {
+      "check": "sw.js syntax valid",
+      "passed": true
+    },
+    {
+      "check": "all referenced images readable",
+      "passed": true
+    }
+  ],
+  "newlyEditedChapters": 8,
+  "cumulativeEditedChapters": 35,
+  "stillWithoutTargetedEditorialChanges": 23,
+  "addedParagraphs": 8,
+  "imagesVerified": 103,
+  "newOriginalIllustrations": 0,
+  "originalIllustrationsRetained": 27,
+  "hiroshigeDescriptionsRetained": 44,
+  "browserTest": "not performed - local Chromium had execution timeout; static structure and image checks alone do not establish interactive UI correctness"
+}

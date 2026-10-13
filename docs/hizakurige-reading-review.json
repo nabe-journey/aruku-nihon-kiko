@@ -1,0 +1,2542 @@
+[
+  {
+    "id": "departure",
+    "title": "風呂敷ひとつの旅立ち",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "初編の発語・旅立ちの抄訳に直接対応する場面図は確認できない。42コマの風景口絵は従来の関連資料として残す。早稲田本2冊目7コマの机に向かう人物像は著者に関する図で、弥次喜多の旅立ちの図として採らない。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "shinagawa",
+    "title": "海辺の品川、麦藁細工の大森",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "品川・鈴ヶ森・大森・六郷の短い道中記事に対応する専用図は、初編の図像群に見当たらない。麦藁細工の店や二人の買物図を推測で補わない。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-02"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kawasaki",
+    "title": "奈良茶飯と、行列の言葉遊び",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "初編51コマの馬上の旅人と馬方は、参照原文の後半の馬方話に関係するが、抄訳に残した万年屋の食事と大名行列の言葉遊びの図ではないため不採用。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-03"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kanagawa",
+    "title": "景色はよいが、鰺の味は",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "神奈川の眺めと鰺の味の抄訳に対応する図は初編の図像群で確認できない。広重の神奈川は別作品の参考風景として区別する。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-04"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "hodogaya",
+    "title": "泊まれ、泊まれと引き止められ",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "保土ヶ谷の宿引とのやり取りを描いた図を初編の図像群で確認できない。宿の客引きという共通題材だけで他の篇の図を流用しない。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-05"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "totsuka",
+    "title": "親子のふりと、ただの酒",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "親子のふりと酒の勘定を扱う戸塚の抄訳に対応する図は初編の図像群で確認できない。団子の図63コマは藤沢の別場面。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-06"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "fujisawa",
+    "title": "江の島の道を聞いたのに",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-07"
+    ],
+    "adoptedFrames": [
+      63
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "hiratsuka",
+    "title": "川の名と、首が飛ぶ話",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "川の名と首が飛ぶ話の挿絵は初編の図像群で確認できない。地名だけが一致する風景をこの会話の場面図としない。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-08"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "oiso",
+    "title": "といて、かけて、長い謎",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "謎掛けの言葉の応酬に対応する図は初編の図像群で確認できない。小田原の風呂場71コマは続く別の篇へ採録。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-09"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "bath",
+    "title": "五右衛門風呂で大騒動",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-10"
+    ],
+    "adoptedFrames": [
+      71
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "hakone",
+    "title": "三百文の品を、四百文で",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "三百文の品を四百文で買う取引の図は初編で確認できない。同じ原文参照01-10でも風呂場71コマは風呂篇だけに対応付ける。",
+    "reviewedNijlVolume": "初編",
+    "reviewedNijlFrames": [
+      38,
+      79
+    ],
+    "reviewedWasedaVolumes": [
+      2
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "01-10"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": 2,
+      "part": "初編",
+      "frames": [
+        1,
+        47
+      ],
+      "figureFrames": [
+        7,
+        8,
+        17,
+        18,
+        30,
+        38
+      ],
+      "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest",
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "この抄訳の未収録事件を描く新たな図は確認できない。同じ構図の別本画像は重複追加しない。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "mishima",
+    "title": "白い手拭いのはずが",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "後編乾91コマは火を囲む駕籠かきの別場面。抄訳に残した白い手拭いと褌の取り違えを描く図ではないため不採用。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "numazu",
+    "title": "旅の金が、石ころになった",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-02"
+    ],
+    "adoptedFrames": [
+      99
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "hara",
+    "title": "百文の巾着と、そばの湯",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "後編乾99コマは旅の金のすり替え、113コマは道中の人物群。百文の巾着とそばの湯というこの抄訳の場面の図は確認できない。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-02"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "sweets",
+    "title": "二五の三文？ 菓子屋の勘定",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "後編乾113コマに道中の人物群はあるが、菓子屋の二五の三文の計算を描く店先図としては一致を確認できないため採らない。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-02"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kanbara",
+    "title": "風が吹いたから、箱屋を始めた",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-03"
+    ],
+    "adoptedFrames": [
+      131
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "yui",
+    "title": "壺焼きの海から、雨の峠へ",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "後編坤の図は木賃宿131と餅屋143。由比の海辺・壺焼きや雨の峠を直接描く図は確認できない。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-04"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "okitsu",
+    "title": "黄な粉だと思った団子",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "黄な粉と思い込む団子の図は後編坤で確認できない。63コマの団子は藤沢の火付きの団子、143は安倍川餅で、別場面として除外。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-04"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "ejiri",
+    "title": "親切な客と、親切な馬方",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "客と馬方の親切に振り回される抄訳の図は後編坤で確認できない。51の馬方図や333の借金争いは別の話として除外。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-05"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "fuchu",
+    "title": "深い川を、肩車で",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-06"
+    ],
+    "adoptedFrames": [
+      143
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "tororo",
+    "title": "とろろ汁は、食べる前に",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "後編坤の図像群に、とろろ汁が食べる前にこぼれる場面を確認できない。広重の丸子茶店は膝栗毛の挿絵ではない。",
+    "reviewedNijlVolume": "後編乾・坤",
+    "reviewedNijlFrames": [
+      80,
+      153
+    ],
+    "reviewedWasedaVolumes": [
+      3,
+      4
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "02-07"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "okabe",
+    "title": "川明けの朝、ねぎまを頼む",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "三編の口絵158は大井川方面の風景。川明けの朝にねぎまを頼む岡部の食事の図は確認できないので、風景口絵で場面を補わない。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "fujieda",
+    "title": "ご馳走のはずが、勘定は誰に",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-02"
+    ],
+    "adoptedFrames": [
+      166
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "shimada",
+    "title": "即席の侍、刀の先が折れる",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-03"
+    ],
+    "adoptedFrames": [
+      172
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kanaya",
+    "title": "底の抜けた駕籠",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "三編上の166は藤枝の出会い、172は川問屋、181は口寄せ。底の抜けた駕籠を描く図は確認できず、ほかの駕籠図も採らない。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-04"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "nissaka",
+    "title": "薬を飲むはずが、観音様",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-05"
+    ],
+    "adoptedFrames": [
+      181
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kakegawa",
+    "title": "背負ってもらう相手をすり替え",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-06"
+    ],
+    "adoptedFrames": [
+      191
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "fukuroi",
+    "title": "江戸の通人を気取ったが",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "三編下198コマは茶屋での別の動作を描く図。抄訳に残した上方者との道上の通人自慢に対応する図としては確認できない。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-07"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "mitsuke",
+    "title": "大所帯の旦那、米の値段に詰まる",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "三編下206は天竜方面の風景図。大所帯の旦那を装って米の値段に詰まる茶屋の場面図は確認できない。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-08"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "hamamatsu",
+    "title": "白い幽霊の正体",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-09"
+    ],
+    "adoptedFrames": [
+      215
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "maisaka",
+    "title": "船で逃げた蛇と、浮く脇差",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "三編下の図像群に、乗合船の蛇と流れる竹光を描く図は確認できない。新居方面の口絵227を船内の騒動の図としない。",
+    "reviewedNijlVolume": "三編上・下",
+    "reviewedNijlFrames": [
+      154,
+      222
+    ],
+    "reviewedWasedaVolumes": [
+      5,
+      6
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "03-10"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "arai",
+    "title": "一足の草鞋で、どこまでも？",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編上241コマの人を担ぐ図は、参照原文に続く別の話。抄訳の草鞋が長持ちする自慢や侍と馬方の酒手の押し問答の図としては不採用。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "shirasuka",
+    "title": "拾った銭で、酒をおごったが",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編上248などの風景図はあるが、拾った銭を駕籠かきへの酒代に使い、返すことになる場面を描く図は確認できない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-02"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "futagawa",
+    "title": "抜いてみたら、竹の刀",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編の図像群に竹光を抜いた中間との喧嘩の図は確認できない。馬・狐・父娘の図を刀の場面へ流用しない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-03"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "yoshida",
+    "title": "義経一行と、芝居を信じた村",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "豊川周辺の風景図はあるが、義経千本桜の役名で呼び合う道連れと村芝居の話を描く図は確認できない。人物を芝居の役者と推測しない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-04"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "goyu",
+    "title": "友だちを、狐だと思い込む",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-05"
+    ],
+    "adoptedFrames": [
+      264
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "akasaka",
+    "title": "悪口に、自分から名乗り出る",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編下264コマは喜多八を狐と思い込む別の篇。悪口へ自分から名乗り出て馬の糞を差し出されるこの抄訳の図は確認できない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-06"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "fujikawa",
+    "title": "悪ふざけを、病のふりで取り繕う",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-07"
+    ],
+    "adoptedFrames": [
+      281
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "okazaki",
+    "title": "三文の餅を、二文で買う算段",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編下272に岡崎方面の風景図はあるが、三文の餅を二文で買う算段の店先図は確認できない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-08"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "chiryu",
+    "title": "草履は、片方だけでは履けない",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編の図像群に、片方の草履をめぐる抄訳の場面図は確認できない。旅人の足や履物が見えるだけでこの話に対応とはしない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-09"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "narumi",
+    "title": "布の値段を聞いているのに",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編の図像群に、布の値段を尋ねる言葉の取り違えの店先図は確認できない。別の衣装購入図を鳴海の図としない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-09",
+      "04-10"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "boat",
+    "title": "船の上の、竹筒の使い方",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "四編の図像群に、七里の渡し船上で竹筒を使うこの話の図は確認できない。舟の風景・他巻の船着場図を船内の出来事の図にしない。",
+    "reviewedNijlVolume": "四編上・下",
+    "reviewedNijlFrames": [
+      223,
+      292
+    ],
+    "reviewedWasedaVolumes": [
+      7,
+      8
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "04-11"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kuwana",
+    "title": "半日交替の旦那と供、熱い蛤",
+    "status": "reviewed",
+    "decision": "original-context-only",
+    "decisionReason": "当該の騒動の場面図は確認できないが、同じ原作で本文の場所・風俗を描く図を関連図として採録。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-01"
+    ],
+    "adoptedFrames": [
+      297
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "manju",
+    "title": "饅頭の食べ比べと、大津の釜七",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-02"
+    ],
+    "adoptedFrames": [
+      309
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "ise-road",
+    "title": "伊勢へ曲がる道、何度も馬を下ろされ",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-03"
+    ],
+    "adoptedFrames": [
+      333
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "ise-shiroko",
+    "title": "落ちた煙草入れが、するすると",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-04"
+    ],
+    "adoptedFrames": [
+      339
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "ise-tsu",
+    "title": "人の煙草と、作者のふり",
+    "status": "reviewed",
+    "decision": "original-context-only",
+    "decisionReason": "349コマを348・350コマおよび05-05原文と照合。2026-10-13の抄訳改訂で省略されていた食事場面を増補し、第5段落の配膳直後に配置。焼け石の調理自体や煙草の貸し借り・作者の名乗りの瞬間を直接描く図ではないため「関連図」の区分を維持。356コマの犬の図は追加未検証のため採らず。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-05"
+    ],
+    "adoptedFrames": [
+      349
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "ise-matsusaka",
+    "title": "歌の稽古と、後ろからの竹",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "五編下の馬の図333は借金争い、356は犬の別場面。松坂から山田へ向かう国太夫節と竹のいたずらの図は確認できない。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-06"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "ise-shrine",
+    "title": "参宮の駕籠が、違う組へ",
+    "status": "reviewed",
+    "decision": "original-context-only",
+    "decisionReason": "当該の騒動の場面図は確認できないが、同じ原作で本文の場所・風俗を描く図を関連図として採録。",
+    "reviewedNijlVolume": "五編上・下・追加",
+    "reviewedNijlFrames": [
+      293,
+      417
+    ],
+    "reviewedWasedaVolumes": [
+      9,
+      10,
+      11
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "05-09"
+    ],
+    "adoptedFrames": [
+      375
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kyoto-fushimi",
+    "title": "京都の前に、大坂へ行こうか",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "六編上の口絵・道中・茶屋の図を照合したが、伏見の夜船で客が芸を披露する抄訳の図は確認できない。陸上の別場面を船内として使わない。",
+    "reviewedNijlVolume": "六編上・下",
+    "reviewedNijlFrames": [
+      418,
+      487
+    ],
+    "reviewedWasedaVolumes": [
+      12,
+      13
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "06-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "wrong-boat",
+    "title": "大坂のはずが、また伏見",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "六編上の図像群に、雨の後で上り船へ乗り違えて伏見へ戻る場面図を確認できない。同じ06-01の別の図と取り違えない。",
+    "reviewedNijlVolume": "六編上・下",
+    "reviewedNijlFrames": [
+      418,
+      487
+    ],
+    "reviewedWasedaVolumes": [
+      12,
+      13
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "06-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kyoto-buddha",
+    "title": "柱の穴から、出られない",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "六編上・下",
+    "reviewedNijlFrames": [
+      418,
+      487
+    ],
+    "reviewedWasedaVolumes": [
+      12,
+      13
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "06-02"
+    ],
+    "adoptedFrames": [
+      460
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kyoto-clothes",
+    "title": "安い綿入れの背に、大きな紋",
+    "status": "reviewed",
+    "decision": "no-matching-scene-in-reviewed-witnesses",
+    "decisionReason": "七編上の図像群を照合。516は梯子を運ぶ後の別場面で、古着を買い幟の紋に気づく瞬間の図ではない。抄訳範囲に直接対応する図は確認できない。",
+    "reviewedNijlVolume": "七編上・下",
+    "reviewedNijlFrames": [
+      488,
+      561
+    ],
+    "reviewedWasedaVolumes": [
+      14,
+      15
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "07-01"
+    ],
+    "adoptedFrames": [],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "kyoto-ladder",
+    "title": "梯子で返事、鐘のない坊さん",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "七編上・下",
+    "reviewedNijlFrames": [
+      488,
+      561
+    ],
+    "reviewedWasedaVolumes": [
+      14,
+      15
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "07-02"
+    ],
+    "adoptedFrames": [
+      524,
+      529
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "osaka-arrival",
+    "title": "同行四十七人、と言ってみる",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "八編上・中・下",
+    "reviewedNijlFrames": [
+      562,
+      668
+    ],
+    "reviewedWasedaVolumes": [
+      16,
+      17,
+      18
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "08-01"
+    ],
+    "adoptedFrames": [
+      571,
+      566
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "osaka-night",
+    "title": "まだ受け取らぬ百両で、身支度",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "八編上・中・下",
+    "reviewedNijlFrames": [
+      562,
+      668
+    ],
+    "reviewedWasedaVolumes": [
+      16,
+      17,
+      18
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "08-02"
+    ],
+    "adoptedFrames": [
+      616
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "osaka-lottery",
+    "title": "百両は、十二支が違っていた",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "八編上・中・下",
+    "reviewedNijlFrames": [
+      562,
+      668
+    ],
+    "reviewedWasedaVolumes": [
+      16,
+      17,
+      18
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "08-03"
+    ],
+    "adoptedFrames": [
+      627
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  },
+  {
+    "id": "sumiyoshi-ending",
+    "title": "住吉の雷雨、長町へ帰る",
+    "status": "reviewed",
+    "decision": "scene",
+    "decisionReason": "収録本文の場面に対応する図を採録。口絵・風景図を併用する場合は別区分で表示。",
+    "reviewedNijlVolume": "八編上・中・下",
+    "reviewedNijlFrames": [
+      562,
+      668
+    ],
+    "reviewedWasedaVolumes": [
+      16,
+      17,
+      18
+    ],
+    "primaryBook": "https://codh.rois.ac.jp/pmjt/book/200004002/",
+    "alternateBook": "https://www.wul.waseda.ac.jp/kotenseki/html/he13/he13_03123/index.html",
+    "originalTextReferences": [
+      "08-03"
+    ],
+    "adoptedFrames": [
+      662,
+      656
+    ],
+    "scopeNote": "国文研本・早稲田本の対象巻全図像に加え、佐賀大学本の図像を追加確認。五編追加は佐賀本で確認できず。全伝本での不存在の証明・全本文の完全翻刻ではありません。",
+    "additionalWitness": {
+      "holding": "佐賀大学附属図書館 市場直次郎コレクション 152～161",
+      "catalogue": "https://www.dl.saga-u.ac.jp/collection/detail/?id=165",
+      "volumeIndex": null,
+      "part": "五編追加は当該10冊の画像で確認できず",
+      "frames": [],
+      "figureFrames": [],
+      "manifest": null,
+      "method": "全コマの図像一覧を目視。候補図の拡大画像と巻頭・巻末を追加確認。全本文の完全翻刻・異同校合ではない。",
+      "result": "所蔵対象の初編～八編は確認したが、五編追加の独立巻の画像を得られず、この篇の追加照合は未完了。",
+      "dateStatus": "書誌は享和2～文化11年。序年・作品年代と所蔵個体の印刷年を区別し、個体の刷年は未詳。",
+      "editionStatus": "国文研本と本文の行数・図の配置が異なる。後印・改刻・版木系統の確定は未了。",
+      "license": "CC BY-NC-SA 4.0（表示・非営利・継承）",
+      "licenseUrl": "https://www.dl.saga-u.ac.jp/about/",
+      "imageReuse": "比較調査のみ。アプリへの画像転載なし。"
+    },
+    "absenceStatus": "not-established",
+    "existenceNote": "確認した伝本での未確認と、全伝本に絵が存在しないことを区別する。存在が確認された該当図のデジタル画像未取得を、この篇で証明したものではない。"
+  }
+]

@@ -1,0 +1,12 @@
+{
+  "readings_count": 58,
+  "unique_reading_ids": true,
+  "orders_sequential": true,
+  "missing_image_refs": [],
+  "modified_ids": [
+    "departure",
+    "boat",
+    "kyoto-fushimi"
+  ],
+  "status": "ok"
+}

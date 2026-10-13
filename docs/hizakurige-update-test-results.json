@@ -1,0 +1,404 @@
+{
+  "date": "2026-10-13",
+  "base": "http://127.0.0.1:8765/aruku-nihon-kiko/",
+  "checks": [
+    {
+      "name": "cache upgrade preserves other course and replaces old Hizakurige data",
+      "status": "passed"
+    },
+    {
+      "name": "existing saved records/read marks/settings and legacy value preserved on load",
+      "status": "passed"
+    },
+    {
+      "name": "all 58 readings keep translation, image captions and default-collapsed commentary",
+      "status": "passed"
+    },
+    {
+      "name": "offline-capable enlargement keeps the reading dialog, focus and saved data",
+      "status": "passed"
+    },
+    {
+      "name": "in-app audit link resolves to an existing same-origin document",
+      "status": "passed"
+    },
+    {
+      "name": "all 44 Hiroshige commentaries render and all course images load",
+      "status": "passed"
+    },
+    {
+      "name": "mobile and tablet widths have no horizontal overflow",
+      "status": "passed"
+    },
+    {
+      "name": "reading mark persists without changing distances or the other course",
+      "status": "passed"
+    },
+    {
+      "name": "walking record add/edit/delete preserves initial record and read marks",
+      "status": "passed"
+    },
+    {
+      "name": "map has 47 prefectures, 68 Hizakurige points and working zoom/select",
+      "status": "passed"
+    },
+    {
+      "name": "offline cache contains every course image and audit document",
+      "status": "passed"
+    },
+    {
+      "name": "offline reload, new illustrations, full original and map work",
+      "status": "passed"
+    },
+    {
+      "name": "new 349 image and enlargement work with network disabled",
+      "status": "passed"
+    },
+    {
+      "name": "previously cached Oku no Hosomichi works offline after update",
+      "status": "passed"
+    },
+    {
+      "name": "no JavaScript errors or image HTTP errors",
+      "status": "passed"
+    }
+  ],
+  "readings": [
+    {
+      "id": "departure",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "shinagawa",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "kawasaki",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "kanagawa",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "hodogaya",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "totsuka",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "fujisawa",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "hiratsuka",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "oiso",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "bath",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "hakone",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "mishima",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "numazu",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "hara",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "sweets",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "kanbara",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "yui",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "okitsu",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "ejiri",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "fuchu",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "tororo",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "okabe",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "fujieda",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "shimada",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "kanaya",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "nissaka",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "kakegawa",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "fukuroi",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "mitsuke",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "hamamatsu",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "maisaka",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "arai",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "shirasuka",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "futagawa",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "yoshida",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "goyu",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "akasaka",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "fujikawa",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "okazaki",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "chiryu",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "narumi",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "boat",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "kuwana",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "manju",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "ise-road",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "ise-shiroko",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "ise-tsu",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "ise-matsusaka",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "ise-shrine",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "kyoto-fushimi",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "wrong-boat",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "kyoto-buddha",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "kyoto-clothes",
+      "illustrations": 0,
+      "status": "passed"
+    },
+    {
+      "id": "kyoto-ladder",
+      "illustrations": 2,
+      "status": "passed"
+    },
+    {
+      "id": "osaka-arrival",
+      "illustrations": 2,
+      "status": "passed"
+    },
+    {
+      "id": "osaka-night",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "osaka-lottery",
+      "illustrations": 1,
+      "status": "passed"
+    },
+    {
+      "id": "sumiyoshi-ending",
+      "illustrations": 2,
+      "status": "passed"
+    }
+  ],
+  "widths": [
+    {
+      "width": 320,
+      "doc": 320,
+      "window": 320,
+      "drawer": 320,
+      "body": 320,
+      "status": "passed"
+    },
+    {
+      "width": 360,
+      "doc": 360,
+      "window": 360,
+      "drawer": 360,
+      "body": 360,
+      "status": "passed"
+    },
+    {
+      "width": 390,
+      "doc": 390,
+      "window": 390,
+      "drawer": 390,
+      "body": 390,
+      "status": "passed"
+    },
+    {
+      "width": 412,
+      "doc": 412,
+      "window": 412,
+      "drawer": 412,
+      "body": 412,
+      "status": "passed"
+    },
+    {
+      "width": 768,
+      "doc": 768,
+      "window": 768,
+      "drawer": 760,
+      "body": 760,
+      "status": "passed"
+    }
+  ],
+  "pageErrors": [],
+  "failedImages": [],
+  "browser": "145.0.7632.6",
+  "status": "passed"
+}

@@ -1,0 +1,90 @@
+{
+  "version": "2.2.6",
+  "status": "passed",
+  "checks": [
+    {
+      "test": "編ID・順序と既存編情報",
+      "status": "passed"
+    },
+    {
+      "test": "地点・距離・旅程",
+      "status": "passed"
+    },
+    {
+      "test": "画像台帳と出典・関係",
+      "status": "passed"
+    },
+    {
+      "test": "原文抜粋・原文参照キー・句の不変",
+      "status": "passed"
+    },
+    {
+      "test": "画像27点・一覧",
+      "status": "passed"
+    },
+    {
+      "test": "挿絵の参照と段落内配置",
+      "status": "passed"
+    },
+    {
+      "test": "個別挿絵の順序と点数",
+      "status": "passed"
+    },
+    {
+      "test": "原文全体・別作品不変",
+      "status": "passed"
+    },
+    {
+      "test": "記録保存コード・地図コード不変",
+      "status": "passed"
+    },
+    {
+      "test": "画像ファイル点数・パス・バイト一致",
+      "status": "passed"
+    },
+    {
+      "test": "広重の鑑賞文44作品不変",
+      "status": "passed"
+    },
+    {
+      "test": "意図した17篇以外の既存本文・解説不変",
+      "status": "passed"
+    },
+    {
+      "test": "実際の追加段落数",
+      "status": "passed"
+    },
+    {
+      "test": "キャッシュ版の同期",
+      "status": "passed"
+    },
+    {
+      "test": "原文出典の全照合",
+      "status": "passed"
+    },
+    {
+      "test": "js/app.js JavaScript構文チェック",
+      "status": "passed"
+    },
+    {
+      "test": "sw.js JavaScript構文チェック",
+      "status": "passed"
+    },
+    {
+      "test": "全画像参照ファイルをPillowでデコード検証",
+      "status": "passed"
+    }
+  ],
+  "chapters": 58,
+  "newlyEditedChapters": 17,
+  "cumulativeEditedChapters": 27,
+  "originalIllustrations": 27,
+  "newOriginalIllustrations": 0,
+  "addedParagraphs": 32,
+  "browserCheck": "blocked by local net::ERR_BLOCKED_BY_ADMINISTRATOR, see editorial-browser-check-2.2.6.json",
+  "limitations": [
+    "挿絵の追加取得・版種同定・刷年の確定は未実施",
+    "残る31篇の全段落を逐語校合したわけではない",
+    "実機およびブラウザ画面・オフラインの実行検証はできていない"
+  ]
+}

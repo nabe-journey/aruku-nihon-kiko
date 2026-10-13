@@ -1,0 +1,29 @@
+{
+  "result": "passed",
+  "baseline": "2.2.2",
+  "workingVersion": "2.2.3-editorial-draft",
+  "chapterCount": 58,
+  "revisedChapters": [
+    "kanbara",
+    "ise-tsu",
+    "ise-shrine"
+  ],
+  "remaining": 55,
+  "illustrations": 27,
+  "illustratedChapters": 24,
+  "hiroshigeAppreciations": 44,
+  "figurePlacementChanged": [
+    "kanbara",
+    "ise-tsu"
+  ],
+  "checks": [
+    "old course route, distances, chapter IDs unchanged",
+    "Oku no Hosomichi unchanged",
+    "original transcriptions unchanged",
+    "image count unchanged",
+    "all image files exist",
+    "JSON parsed",
+    "all illustration anchors in range",
+    "app and service-worker cache version consistent"
+  ]
+}

@@ -1,3 +1,5 @@
+> **2.2.3追記（2026-10-13）**：雲出（ise-tsu）の焼け石の食事場面は抄訳へ増補済みです。349コマは本文第5段落直後に配置しました。以下に残る「省略場面」の記述は2.2.2時点の調査履歴です。
+
 # 画像ライセンス一覧
 
 各画像は縮小・WebP変換しています。CC BY／CC BY-SAは作者・出典・ライセンスを維持してください。CC BY-SAの加工画像は同じ条件で提供します。Public domainは原作品の保護期間終了に基づく表示で、所蔵機関の名称を著作権者と混同しません。
@@ -472,14 +474,21 @@
 - 加工：長辺1400px以下・WebP変換。原データ：国文研／ROIS-DS CODH
 - 画像サイズ：1400 × 1252 px、146408 bytes
 
-## 『東海道中膝栗毛』紙屋利助版・71コマ
+## 『道中膝栗毛』紙屋利助版・初編・71コマ「風呂場の騒動」
 
 - ファイル：`images/hizakurige/book_71.webp`
-- 種類：原作版本の挿絵・風呂場
-- 作者／撮影者：十返舎一九／国文学研究資料館蔵
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
 - 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：初編／manifest通し71コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00071](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00071)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`bath`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第2冊37コマ。画像転載なし、比較・リンクのみ。
 - 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-- 加工：長辺1400px以下・WebP変換。原データ：国文研／ROIS-DS CODH
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
 - 画像サイズ：1400 × 1252 px、237738 bytes
 
 ## 『東海道中膝栗毛』紙屋利助版・72コマ
@@ -1555,3 +1564,453 @@
 - `images/common/yaji-kita-v21.webp`：利用者提供の庶民風の2人。膝栗毛コース専用。
 - `images/common/basho-sora-v21.webp`：利用者提供の僧侶風の2人。おくのほそ道コース専用。
 - 元の透明背景と絵柄を保持し、長辺640pxに縮小・WebP変換しました。現代のイメージ画像であり、歴史資料・肖像・原作挿絵ではありません。利用者提供素材を本アプリへの使用指示に基づき掲載しています。第三者向けのCCライセンスは設定していません。
+
+# 2026年10月13日追加：場面対応を照合した版本挿絵
+
+国文研展示で江戸紙屋利助版と紹介された原作版本です。作品の刊行年代と個体の刷年を区別します。掲載は26図（場面22、原作の口絵・場所風俗4）。新規25ファイル、既存風呂場1点を再利用。生成画像はありません。
+
+## 『道中膝栗毛』紙屋利助版・初編・63コマ「熱い団子」
+
+- ファイル：`images/hizakurige/book_63.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：初編／manifest通し63コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00063](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00063)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`fujisawa`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第2冊29コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、217626 bytes
+
+## 『道中膝栗毛』紙屋利助版・後編乾・99コマ「包みから出た石」
+
+- ファイル：`images/hizakurige/book_99.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：後編乾／manifest通し99コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00099](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00099)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`numazu`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第3冊24コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、221560 bytes
+
+## 『道中膝栗毛』紙屋利助版・後編坤・131コマ「木賃宿の食事」
+
+- ファイル：`images/hizakurige/book_131.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：後編坤／manifest通し131コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00131](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00131)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`kanbara`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第4冊13コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、240246 bytes
+
+## 『道中膝栗毛』紙屋利助版・後編坤・143コマ「安倍川の餅屋」
+
+- ファイル：`images/hizakurige/book_143.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：後編坤／manifest通し143コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00143](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00143)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`fuchu`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第4冊25コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、275210 bytes
+
+## 『道中膝栗毛』紙屋利助版・三編上・166コマ「道と座敷の騒ぎ」
+
+- ファイル：`images/hizakurige/book_166.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：三編上／manifest通し166コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00166](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00166)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`fujieda`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第5冊15コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、250652 bytes
+
+## 『道中膝栗毛』紙屋利助版・三編上・172コマ「大井川問屋の前」
+
+- ファイル：`images/hizakurige/book_172.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：三編上／manifest通し172コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00172](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00172)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`shimada`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第5冊21コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、256914 bytes
+
+## 『道中膝栗毛』紙屋利助版・三編上・181コマ「雨の宿の口寄せ」
+
+- ファイル：`images/hizakurige/book_181.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：三編上／manifest通し181コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00181](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00181)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`nissaka`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第5冊30コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、225802 bytes
+
+## 『道中膝栗毛』紙屋利助版・三編下・191コマ「背負う相手が違う」
+
+- ファイル：`images/hizakurige/book_191.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：三編下／manifest通し191コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00191](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00191)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`kakegawa`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第6冊4コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、276562 bytes
+
+## 『道中膝栗毛』紙屋利助版・三編下・215コマ「幽霊騒ぎのあと」
+
+- ファイル：`images/hizakurige/book_215.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：三編下／manifest通し215コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00215](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00215)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`hamamatsu`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第6冊28コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、246726 bytes
+
+## 『道中膝栗毛』紙屋利助版・四編下・264コマ「狐と疑ってつかまえる」
+
+- ファイル：`images/hizakurige/book_264.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：四編下／manifest通し264コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00264](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00264)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`goyu`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第8冊5コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、236838 bytes
+
+## 『道中膝栗毛』紙屋利助版・四編下・281コマ「家の中で取り繕う」
+
+- ファイル：`images/hizakurige/book_281.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：四編下／manifest通し281コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00281](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00281)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`fujikawa`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第8冊22コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、262542 bytes
+
+## 『道中膝栗毛』紙屋利助版・五編上・309コマ「饅頭の食べ比べ」
+
+- ファイル：`images/hizakurige/book_309.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：五編上／manifest通し309コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00309](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00309)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`manju`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第9冊21コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、212984 bytes
+
+## 『道中膝栗毛』紙屋利助版・六編下・460コマ「柱の穴から抜けない」
+
+- ファイル：`images/hizakurige/book_460.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：六編下／manifest通し460コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00460](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00460)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`kyoto-buddha`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第13冊8コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、195148 bytes
+
+## 『道中膝栗毛』紙屋利助版・七編下・524コマ「梯子を持って宿へ」
+
+- ファイル：`images/hizakurige/book_524.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：七編下／manifest通し524コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00524](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00524)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`kyoto-ladder`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第15冊4コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、233956 bytes
+
+## 『道中膝栗毛』紙屋利助版・七編下・529コマ「鐘のない坊さん」
+
+- ファイル：`images/hizakurige/book_529.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：七編下／manifest通し529コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00529](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00529)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`kyoto-ladder`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第15冊9コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、223770 bytes
+
+## 『道中膝栗毛』紙屋利助版・八編上・571コマ「宿の按摩」
+
+- ファイル：`images/hizakurige/book_571.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：八編上／manifest通し571コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00571](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00571)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`osaka-arrival`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第16冊12コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、233986 bytes
+
+## 『道中膝栗毛』紙屋利助版・八編中・616コマ「借り着で身支度」
+
+- ファイル：`images/hizakurige/book_616.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：八編中／manifest通し616コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00021](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00021)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`osaka-night`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第17冊21コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1246 px、253854 bytes
+
+## 『道中膝栗毛』紙屋利助版・八編下・662コマ「住吉の雷雨」
+
+- ファイル：`images/hizakurige/book_662.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：八編下／manifest通し662コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00067](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00067)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`sumiyoshi-ending`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第18冊39コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1246 px、277518 bytes
+
+## 追加執筆物
+
+新規の画像説明・広重鑑賞文・調査メタデータはCC BY-SA 4.0で提供します。既存コンテンツの条件は変更しません。広重44画像の画像本体・既存利用条件は保持。復刻の表示と原図成立年代を区別しました。新規文章は掲載画像を観察して執筆したもので、美術館の解説の転載ではありません。
+
+## 『道中膝栗毛』紙屋利助版・五編上・297コマ「五編上の口絵・焼蛤」
+
+- ファイル：`images/hizakurige/book_297.webp`
+- 種類：原作版本の口絵・場所や風俗の図（当該騒動そのものの図ではありません）
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：五編上／manifest通し297コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00297](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00297)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`kuwana`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第9冊9コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、205024 bytes
+
+
+## 『道中膝栗毛』紙屋利助版・五編下・333コマ「馬と借金の争い」
+
+- ファイル：`images/hizakurige/book_333.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：五編下／manifest通し333コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00333](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00333)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`ise-road`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第10冊6コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、255744 bytes
+
+
+## 『道中膝栗毛』紙屋利助版・五編下・339コマ「磯山の吹矢遊び」
+
+- ファイル：`images/hizakurige/book_339.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：五編下／manifest通し339コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00339](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00339)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`ise-shiroko`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第10冊12コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、220538 bytes
+
+
+## 『道中膝栗毛』紙屋利助版・五編追加・375コマ「山田の御師の街」
+
+- ファイル：`images/hizakurige/book_375.webp`
+- 種類：原作版本の口絵・場所や風俗の図（当該騒動そのものの図ではありません）
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：五編追加／manifest通し375コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00375](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00375)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`ise-shrine`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第11冊6コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、248146 bytes
+
+
+## 『道中膝栗毛』紙屋利助版・八編上・566コマ「大坂八軒家の船着場」
+
+- ファイル：`images/hizakurige/book_566.webp`
+- 種類：原作版本の口絵・場所や風俗の図（当該騒動そのものの図ではありません）
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：八編上／manifest通し566コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00566](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00566)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`osaka-arrival`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第16冊7コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1251 px、270906 bytes
+
+
+## 『道中膝栗毛』紙屋利助版・八編下・627コマ「百両を前にする三人」
+
+- ファイル：`images/hizakurige/book_627.webp`
+- 種類：原作版本の本文挿絵
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：八編下／manifest通し627コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00032](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00032)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`osaka-lottery`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第18冊4コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1246 px、198772 bytes
+
+
+## 『道中膝栗毛』紙屋利助版・八編下・656コマ「原作に描かれた住吉」
+
+- ファイル：`images/hizakurige/book_656.webp`
+- 種類：原作版本の口絵・場所や風俗の図（当該騒動そのものの図ではありません）
+- 作者／所蔵：十返舎一九 作／国文学研究資料館所蔵（各図の画者は未特定）
+- クレジット：国文学研究資料館所蔵／ROIS-DS人文学オープンデータ共同利用センター（CODH）提供
+- 出典：[https://codh.rois.ac.jp/pmjt/book/200004002/](https://codh.rois.ac.jp/pmjt/book/200004002/)
+- 実巻・掲載位置：八編下／manifest通し656コマ。丁付の推定換算なし。
+- 画像識別：[http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00061](http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00061)／DOI 10.20730/200004002／ナ4-61-1～18
+- 対応篇：`sumiyoshi-ending`（収録篇側の編巻表記と製本巻を区別）
+- 刊行年代：正編の刊行：享和2～文化6年（1802～1809）。国文研展示解説による。所蔵個体の刷年・初摺かどうかは未詳。
+- 年代・版本の根拠：[https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html](https://www.nijl.ac.jp/etenji/bungakushi/contents/detail/detail04-03_011.html)
+- 比較本：早稲田大学図書館ヘ13 03123、第18冊33コマ。画像転載なし、比較・リンクのみ。
+- 利用条件：[CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- 加工：見開き全体を長辺1400px以下に縮小・WebP変換（描き足し・切抜きなし）
+- 画像サイズ：1400 × 1246 px、253466 bytes
+
+
+## 追加照合で使った画像の扱い（2026-10-13）
+
+早稲田大学図書館ヘ13 03123の画像は研究用の照合のみ。アプリ・配布物への転載なし。公開Webへの画像転載には同館の事前申請が必要であり、CODHのCC BY-SA条件を早稲田画像へ転用しません。[利用条件](https://www.waseda.jp/library/user/using-images/)を確認しました。
+
+## 2.2.2の継続照合
+
+新規book_349.webp：国文研所蔵ナ4-61-1～18・五編下349コマ。CC BY-SA 4.0。縮小・WebP変換。348～350コマと05-05原文を照合し、雲出のもてなしに続く省略場面として表示。原本丁付・個体刷年・各画者は未詳。
+
+佐賀大学市場直次郎コレクション152～161は全418コマの図像一覧を追加確認。画像はアプリに転載しません。画像利用条件はhttps://www.dl.saga-u.ac.jp/about/ （CC BY-NC-SA 4.0）。図像・巻別範囲はhizakurige-final-review.jsonを参照。

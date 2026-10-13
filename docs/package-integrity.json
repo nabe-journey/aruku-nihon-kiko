@@ -1,0 +1,1256 @@
+{
+  "version": "2.2.2",
+  "dateJST": "2026-10-13",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "README.md",
+      "bytes": 8765,
+      "sha256": "9c1d96b3c828bd1a1dd381739233ca0fef7c9369d9207fbb1c7c1da716a6ea8e"
+    },
+    {
+      "path": "css/style.css",
+      "bytes": 14163,
+      "sha256": "23a7c3c7d756138efcc7345a3ca345805fa721ca358c330137bca0bbeb376ecb"
+    },
+    {
+      "path": "data/courses.json",
+      "bytes": 797,
+      "sha256": "d3c434d1cd66c9a00b8f1af48896c8ccfc29e9cc03d087b6b15db1432708b9f8"
+    },
+    {
+      "path": "data/geography.json",
+      "bytes": 193480,
+      "sha256": "595f5435adbf1f0636423da81ff2976f4e41eef636e7e22efdd0eb2d20236ae8"
+    },
+    {
+      "path": "data/hizakurige-originals.json",
+      "bytes": 850616,
+      "sha256": "95afb81e951328e928f05524c1ce3498831ace9c5e1dc6d7426a0c7651a1f95e"
+    },
+    {
+      "path": "data/hizakurige.json",
+      "bytes": 652472,
+      "sha256": "acedab053a313959a446bc466f263b76eb9626d128ad2365cb0184815a3a9b27"
+    },
+    {
+      "path": "data/oku-no-hosomichi.json",
+      "bytes": 313024,
+      "sha256": "d2327234fcac508c3c3223d1f634bdc45b9391765caa234c0986347a63d02ce9"
+    },
+    {
+      "path": "docs/ADDING_COURSES.md",
+      "bytes": 5330,
+      "sha256": "cbf3e56e53811869ec56e7e9181ad5f6a403422b9449abd4546a60bbb66c29e2"
+    },
+    {
+      "path": "docs/ARCHITECTURE.md",
+      "bytes": 2046,
+      "sha256": "5d1e3aa919abeb79b68d650d84e5c3007aac5aa29815d4e8a7f773b5fba40131"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "bytes": 3471,
+      "sha256": "625dc177a6fbaef48d1aee3660f5acd7585e085742e637c46ef3883f7330af3a"
+    },
+    {
+      "path": "docs/EDITORIAL_REVISION_2.2.3.md",
+      "bytes": 2986,
+      "sha256": "06a34ffc82eef3f35a5d1ef725691c55f272ba6b8a3a4d4e0551d9a35f3a8698"
+    },
+    {
+      "path": "docs/EDITORIAL_REVISION_2.2.4.md",
+      "bytes": 2578,
+      "sha256": "732c2614735d3f848cb026108b305ea80bf984f98755889d9d70d176ec4619e3"
+    },
+    {
+      "path": "docs/EDITORIAL_REVISION_2.2.5.md",
+      "bytes": 4056,
+      "sha256": "4063d27202303ae27ece7170c2fb9caf8e4e18a29c31a8d1a0d06b31f47898e5"
+    },
+    {
+      "path": "docs/EDITORIAL_REVISION_2.2.7.md",
+      "bytes": 1756,
+      "sha256": "5ff5531001573e72f5857f832ec2fdb4374834ee6ecd7d1371f7c3a69ddd497c"
+    },
+    {
+      "path": "docs/HIZAKURIGE_FINAL_REVIEW.md",
+      "bytes": 12655,
+      "sha256": "b6af405c52c9e72e85d3782624199fcfb823c4a38e0799380af1cc05ea0de313"
+    },
+    {
+      "path": "docs/HIZAKURIGE_ILLUSTRATION_AUDIT.md",
+      "bytes": 21957,
+      "sha256": "9f2732db9050c7b22e013425839713edc1a3732a65c38ee9a30833a71fc0b763"
+    },
+    {
+      "path": "docs/IMAGE_LICENSES.md",
+      "bytes": 131155,
+      "sha256": "37b6577e53ae9fc50d6b554f184f117252a9372cb4b37730282b4fe5c861b486"
+    },
+    {
+      "path": "docs/ITINERARIES.md",
+      "bytes": 17174,
+      "sha256": "95ec7a4c1db404f82858c10f0cb60891c43e2613e87183bb318c990ba1c73617"
+    },
+    {
+      "path": "docs/NEW_PRIMARY_WITNESS_CANDIDATES_2.2.7.md",
+      "bytes": 1733,
+      "sha256": "0d822311e9d067d0db9cae56070d1c144e8f1583b37d6fb1be1f486f47d0ee86"
+    },
+    {
+      "path": "docs/PLACE_IMAGES.md",
+      "bytes": 18292,
+      "sha256": "6fbbffcb762b47da9818e8d077ae59597019896a62fd0f29127680de214aa7be"
+    },
+    {
+      "path": "docs/QA.md",
+      "bytes": 14475,
+      "sha256": "639ee5fbb5df55dd8b543c4a0c81b3d6a56ab4eec01602312e2638a3bcc99da8"
+    },
+    {
+      "path": "docs/RESUME.md",
+      "bytes": 15658,
+      "sha256": "25d77255572a2dbc1662239a09858f1e97e925f399917af5e1a27d407dbe9601"
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "bytes": 19989,
+      "sha256": "97f18f9f182ca346b3bd5bfebf98f2193343f719f9cd4d36964a0acc51a49a9b"
+    },
+    {
+      "path": "docs/UPDATE_REPORT.md",
+      "bytes": 6991,
+      "sha256": "8a2f4664a9bc7d768ad9adb08a2fb06f663b5218c2096b59eff07430ca43453c"
+    },
+    {
+      "path": "docs/UPDATE_REPORT_2.2.3_editorial.md",
+      "bytes": 1100,
+      "sha256": "a27edb22cdd56477acd1a6c2a17fd4de4623963bd4c971482c81f6196b9e75b7"
+    },
+    {
+      "path": "docs/UPDATE_REPORT_2.2.6.md",
+      "bytes": 3053,
+      "sha256": "e1c563905596ad01c05ad7cf17c4cd9f2c33e74b287965cad30bf2de587f7d8c"
+    },
+    {
+      "path": "docs/UPDATE_REPORT_2.2.7.md",
+      "bytes": 3556,
+      "sha256": "17827c60b142e9025d04a84907b59ada40337f23883f9a349e8725edef5fa96f"
+    },
+    {
+      "path": "docs/additional-test-results.json",
+      "bytes": 282,
+      "sha256": "a2c23cb18895f922a3c5779ad5e938c8cbf7e5ff9ff7bb5586b570ab1882f014"
+    },
+    {
+      "path": "docs/continuation-test-results.json",
+      "bytes": 980,
+      "sha256": "b7a1f5470814c6deb71cbd64722e1e6a290d3b325c226faa62f60a2cf94ffbe0"
+    },
+    {
+      "path": "docs/editorial-browser-check-2.2.4.json",
+      "bytes": 294,
+      "sha256": "7134ac9ce9806e3ab08ca2b5b3732257f7ad9433adbe2cce348a08d13071320e"
+    },
+    {
+      "path": "docs/editorial-browser-check-2.2.5.json",
+      "bytes": 376,
+      "sha256": "b4dd7afb9e5df2d05483c6600ec089dd05178fb938957740429a31a2e9c7eaf4"
+    },
+    {
+      "path": "docs/editorial-progress-2.2.3.json",
+      "bytes": 19424,
+      "sha256": "7dfb40fcd05a02ef788690293c0665feb25325efd0284ba15701f2f8fa208e85"
+    },
+    {
+      "path": "docs/editorial-progress-2.2.4.json",
+      "bytes": 33906,
+      "sha256": "c8aea0c4c1b7acd4651a05a1e5c8faa99a5f0d322c5d83b466d8f11fcaa18b53"
+    },
+    {
+      "path": "docs/editorial-progress-2.2.5.json",
+      "bytes": 39264,
+      "sha256": "0ead95b5e209a3a630dc9d14d9fb46c4fde9e19149f29b110c58f83a5b3366a9"
+    },
+    {
+      "path": "docs/editorial-progress-2.2.6.json",
+      "bytes": 12991,
+      "sha256": "07c5512b15af5a7ea77e3b28a22a91ea2ba83f39493d1f24bee617a8e6a15dd5"
+    },
+    {
+      "path": "docs/editorial-progress-2.2.7.json",
+      "bytes": 5410,
+      "sha256": "898f966e6d4526ad3f442a0f2d1ea365c580c5c276319146926888d4b7a58d08"
+    },
+    {
+      "path": "docs/editorial-structural-check-2.2.3.json",
+      "bytes": 681,
+      "sha256": "79d1622296daaa4ddc6ac7a3de78ce123bf9ba17b0af937456c37a7d65671c55"
+    },
+    {
+      "path": "docs/editorial-structural-check-2.2.4.json",
+      "bytes": 649,
+      "sha256": "fb7ed33e059b39f070beed45d8ab188b4c6f789f23ba3b5464273ce569fd8b01"
+    },
+    {
+      "path": "docs/editorial-structural-check-2.2.5.json",
+      "bytes": 1246,
+      "sha256": "c635a0d1e630662777942079970712781331c68eccfc26cdf019650822343bf6"
+    },
+    {
+      "path": "docs/editorial-structural-check-2.2.6.json",
+      "bytes": 2249,
+      "sha256": "235ed9583b96174ae651f779b9150ccfaae04211c78dbcfdfe19298ca8307711"
+    },
+    {
+      "path": "docs/editorial-structural-check-2.2.7.json",
+      "bytes": 2201,
+      "sha256": "ff9744635ef53c6c240fae8c6ae00d112255d2156358f512e53df3259eb7f787"
+    },
+    {
+      "path": "docs/hizakurige-data-test-results.json",
+      "bytes": 778,
+      "sha256": "19a50f13cbba6dc4e9e0b733735ff26ea4a8b74d56f65c86b7c036e19e871001"
+    },
+    {
+      "path": "docs/hizakurige-figure-inventory.json",
+      "bytes": 57075,
+      "sha256": "9ab622dcebf86a7caf23ad77744ed0385f08d529b4ab5aeb497206cd66376c79"
+    },
+    {
+      "path": "docs/hizakurige-final-review.json",
+      "bytes": 126304,
+      "sha256": "6ff192f8fc2081595d4cc49ec2b9d544cb5c6b079c8e33c5a1f30bd4eafb9704"
+    },
+    {
+      "path": "docs/hizakurige-reading-review.json",
+      "bytes": 143376,
+      "sha256": "4c8c5f8c673a7d0d294ac60fc0c71097b6998f7e94355db716a882a68342deed"
+    },
+    {
+      "path": "docs/hizakurige-update-test-results.json",
+      "bytes": 7805,
+      "sha256": "3537b810683bcc436f37f0eb0afb9c2fbd6376c051a86a552ad694192f60d872"
+    },
+    {
+      "path": "docs/image-licenses.json",
+      "bytes": 303245,
+      "sha256": "46ebd58f70817cad71c861ecfecf0bbc42cd9cf83ae6f7370b82b8ecf675f723"
+    },
+    {
+      "path": "docs/image-update-test-results.json",
+      "bytes": 340,
+      "sha256": "e5a940c4fbec9f5745a6c8ff4e937b22f3544ab022b4184249847712d55ef11f"
+    },
+    {
+      "path": "docs/main-test-results.json",
+      "bytes": 515,
+      "sha256": "e7ade9214ca58c997684781f3d4484bd42ba47c5ea3ab36e810589bd4e2c9720"
+    },
+    {
+      "path": "docs/saga-witness-inventory.json",
+      "bytes": 2191,
+      "sha256": "b9f786f3cdf7b259f1f335a413e55ade84518e3c25884d09b6c564cab3326127"
+    },
+    {
+      "path": "docs/update-file-manifest.json",
+      "bytes": 9531,
+      "sha256": "36dfd939852c1edc5a4fa5f6a7a82dab422d273d1df0c728dc42db96724aaee6"
+    },
+    {
+      "path": "images/basho/basho-art.webp",
+      "bytes": 202758,
+      "sha256": "ce0c84a7b054eacb1b60fafd2254d71eea73cd1eafa00df84dbcc851cfbb19d7"
+    },
+    {
+      "path": "images/basho/fukui.webp",
+      "bytes": 355276,
+      "sha256": "ae0db7c73c5be3c9452f865b916cd03688132d6bd8cec9fe036ca8fe99ebfbc2"
+    },
+    {
+      "path": "images/basho/haguro.webp",
+      "bytes": 399288,
+      "sha256": "a60adf78bfec43742a5bedbe204e1a2d6d4c82f3c0639c437bb0eff40b0513ef"
+    },
+    {
+      "path": "images/basho/hinaga.webp",
+      "bytes": 121224,
+      "sha256": "cc0c20ae0d66d30f3aefb69e18f21a03291aef21e1c2cd9a3ed2f15ae7904c83"
+    },
+    {
+      "path": "images/basho/hiraizumi.webp",
+      "bytes": 417786,
+      "sha256": "df21e3673ef466f6ebb67c02d3fc6913f404771b1d05035d449ee560f55172ed"
+    },
+    {
+      "path": "images/basho/ise.webp",
+      "bytes": 166254,
+      "sha256": "a878ecfb7718bcab4f846faea89aaaf7e33e7908a89059d6c060378a8b9f0fd6"
+    },
+    {
+      "path": "images/basho/kanazawa.webp",
+      "bytes": 270606,
+      "sha256": "b2c72c764163c49a38413cf71ee44b823f989a1e2b90724946d90569c8fa1535"
+    },
+    {
+      "path": "images/basho/kisakata.webp",
+      "bytes": 130782,
+      "sha256": "c9503315147674de593aefe2a73b5ccb9c8986304ecca59808f6ed73d305ef1e"
+    },
+    {
+      "path": "images/basho/matsushima.webp",
+      "bytes": 137996,
+      "sha256": "a6082dc99c710bbea0a07281369d15f10391a47bfafe7d1e8d92f1090883a044"
+    },
+    {
+      "path": "images/basho/mogami.webp",
+      "bytes": 138688,
+      "sha256": "5f058debad580d66f91b74133d7520b1c7da7131d949807bb00d90f7580d67e5"
+    },
+    {
+      "path": "images/basho/nikko.webp",
+      "bytes": 232700,
+      "sha256": "df438d39ae5319bf61a28954814504cdc43656e8f3eaa35295d1cc2177527d79"
+    },
+    {
+      "path": "images/basho/ogaki.webp",
+      "bytes": 191376,
+      "sha256": "5746f2ab7b65e2242334fa41a52816b7cd31cec4c2f8a07ec2208c307db6ed1c"
+    },
+    {
+      "path": "images/basho/shirakawa.webp",
+      "bytes": 493788,
+      "sha256": "c237779efb8d94a808ed5dae37536dae4ab2e443e90e863c8b22e1faa96e8de9"
+    },
+    {
+      "path": "images/basho/tsuruga.webp",
+      "bytes": 242464,
+      "sha256": "187a6a3e112151faf5f5fab80988d9b90b4407bf287c9a82d1f19ad1b04b393d"
+    },
+    {
+      "path": "images/basho/yamadera.webp",
+      "bytes": 426328,
+      "sha256": "9a29794012c229f3e0980aec9c3669b415b8050deb3cd46cbf223d97dedfe6ee"
+    },
+    {
+      "path": "images/common/basho-left.svg",
+      "bytes": 1010,
+      "sha256": "802296458eabf5988c45b0f601285d70ab8d49f56374bf428eb83c36c74fe18d"
+    },
+    {
+      "path": "images/common/basho-sora-v21.webp",
+      "bytes": 52064,
+      "sha256": "28e8e15b88eef0b599715cf28cc0e85efdb9b9353dc6940615f57e311f7a41c1"
+    },
+    {
+      "path": "images/common/icon.svg",
+      "bytes": 330,
+      "sha256": "179750f3de3d7eec6adb91834f6034ca4e51644c3bfe2b155ddbe593ebba42ef"
+    },
+    {
+      "path": "images/common/yaji-kita-v21.webp",
+      "bytes": 60948,
+      "sha256": "78b51786324107aa1d315705db86862af5133e1bd39857928be4c85b181644e5"
+    },
+    {
+      "path": "images/common/yaji-kita.webp",
+      "bytes": 58822,
+      "sha256": "c7f801ec436584e4a13e97ef8f8998a7c90547dacbe494b23cba1338c2fc909c"
+    },
+    {
+      "path": "images/hizakurige/book_115.webp",
+      "bytes": 193248,
+      "sha256": "3b4773b4f5e39c202d3707762a12bae912d11c6bb34a0e236e0d37bf2d988b67"
+    },
+    {
+      "path": "images/hizakurige/book_131.webp",
+      "bytes": 240246,
+      "sha256": "dd4b5540bda3fe13b24366b103caa924102b13aba3d31ffae9823541c364ba85"
+    },
+    {
+      "path": "images/hizakurige/book_143.webp",
+      "bytes": 275210,
+      "sha256": "f6be7371dca6aa7ae63b9fa181f86fe10996984a3c53e091695ec0c2a2575b5e"
+    },
+    {
+      "path": "images/hizakurige/book_149.webp",
+      "bytes": 219204,
+      "sha256": "93911db84221f5ce72a145edd7cef9dccd846fcc3c3f14e80877bc497193126b"
+    },
+    {
+      "path": "images/hizakurige/book_150.webp",
+      "bytes": 205556,
+      "sha256": "c97d56ddbeaa99ce9ca059b46b6e13d9885d027a944b2f993666fd3d817f2c40"
+    },
+    {
+      "path": "images/hizakurige/book_151.webp",
+      "bytes": 191982,
+      "sha256": "d216a71e392007e76ebef7633823e48715d904d9650e37afed134ca2ced8aeab"
+    },
+    {
+      "path": "images/hizakurige/book_166.webp",
+      "bytes": 250652,
+      "sha256": "59414dd33d4b2d4827a6b585dc457617289d988ccf8dc7b0afef72d869f0ab49"
+    },
+    {
+      "path": "images/hizakurige/book_172.webp",
+      "bytes": 256914,
+      "sha256": "c40fcbba07e23757e299c376d292c50c2b8a329252c594830bc0cf2dd99897a7"
+    },
+    {
+      "path": "images/hizakurige/book_181.webp",
+      "bytes": 225802,
+      "sha256": "d93b85a6dae145c8b5c05c41e8e0170a0d7c266747ae420106828b77ef1ab5bf"
+    },
+    {
+      "path": "images/hizakurige/book_191.webp",
+      "bytes": 276562,
+      "sha256": "7717025894d8d85794cfc04ba544cb9bdee5470fd2d34f3939802552f022a392"
+    },
+    {
+      "path": "images/hizakurige/book_215.webp",
+      "bytes": 246726,
+      "sha256": "4f67bccebf78f292b2059eb91a640cd86abe4e9722b134bdfa087718f2c8abb2"
+    },
+    {
+      "path": "images/hizakurige/book_264.webp",
+      "bytes": 236838,
+      "sha256": "13416b8c0437c5802e6fbd65654047db1c80932a0e8504d9ed2cf48789821fa1"
+    },
+    {
+      "path": "images/hizakurige/book_281.webp",
+      "bytes": 262542,
+      "sha256": "b00090a2fa4e1031d7903f0d304af085d72b14a42f6bbe6d8a812fa46c4ad22a"
+    },
+    {
+      "path": "images/hizakurige/book_297.webp",
+      "bytes": 205024,
+      "sha256": "046f0ead898f91b96b704c2450bc6b9e9320318d0fc198bc6366c3442d918ee7"
+    },
+    {
+      "path": "images/hizakurige/book_309.webp",
+      "bytes": 212984,
+      "sha256": "470ed2d986434ebc7acdae2866dc35343fa024f1636728f57f8434571431d786"
+    },
+    {
+      "path": "images/hizakurige/book_333.webp",
+      "bytes": 255744,
+      "sha256": "ba5bd4bcad49889ce5bcbcf52ce3bf56ac07f837eba9114aa4644108a77c9ba7"
+    },
+    {
+      "path": "images/hizakurige/book_339.webp",
+      "bytes": 220538,
+      "sha256": "8c4b23155f9ad00cc1c559f07dcbb8c9499d01145a56659a31734ce60a6b3a40"
+    },
+    {
+      "path": "images/hizakurige/book_339.webp.tmp",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "images/hizakurige/book_349.webp",
+      "bytes": 231750,
+      "sha256": "e8c6988e33242010210eec1111a94134cb9e9507839a1923c32e90203cbba3a8"
+    },
+    {
+      "path": "images/hizakurige/book_375.webp",
+      "bytes": 248146,
+      "sha256": "3a4cd4ab891e0fb6a23b160c690e2f59697e05e6f5ad16165459eb29ced5ffe3"
+    },
+    {
+      "path": "images/hizakurige/book_42.webp",
+      "bytes": 169272,
+      "sha256": "3dfcf0100164f196cb969b1aa8fe9e3aff2e5b017a059204be617146bb5a7dac"
+    },
+    {
+      "path": "images/hizakurige/book_43.webp",
+      "bytes": 181102,
+      "sha256": "1cd4bbcdc16190223f97db750bf0df64d004a229ede4e2add84db4f79fd56481"
+    },
+    {
+      "path": "images/hizakurige/book_44.webp",
+      "bytes": 146408,
+      "sha256": "f70c983dbc5b46614654b87e422e8a40778343c81e5eec679acd32e4bd72be5a"
+    },
+    {
+      "path": "images/hizakurige/book_460.webp",
+      "bytes": 195148,
+      "sha256": "f5d7288f3b6b2057a017cc8c30c76373d7abbd98f2e6f27d06028572fe5f2056"
+    },
+    {
+      "path": "images/hizakurige/book_524.webp",
+      "bytes": 233956,
+      "sha256": "a4c247ec2dfde3be59dc4340ff3dfbf8a214aa8c61840cafcecb21c9d2364e0b"
+    },
+    {
+      "path": "images/hizakurige/book_529.webp",
+      "bytes": 223770,
+      "sha256": "ce147b4921276f45f1e65da66eebf435333aee0040007eb15f9d46f862f1ff1b"
+    },
+    {
+      "path": "images/hizakurige/book_566.webp",
+      "bytes": 270906,
+      "sha256": "525921a4613579d74b6f47276148773476ba063f19b673d901bf4a31cc71f631"
+    },
+    {
+      "path": "images/hizakurige/book_571.webp",
+      "bytes": 233986,
+      "sha256": "77c02ff1618dbda253fc7f40e53847030f490be6d670def8e2f8cad61d097f7c"
+    },
+    {
+      "path": "images/hizakurige/book_616.webp",
+      "bytes": 253854,
+      "sha256": "ee5b7176640b9c09b8dbe50d966a563301375f2a579764eb51e9379ce1ae307c"
+    },
+    {
+      "path": "images/hizakurige/book_627.webp",
+      "bytes": 198772,
+      "sha256": "8f649a007bc1e8cdf3d05087f74cdee7163dd3d435a093c1a0230c5926a49e5b"
+    },
+    {
+      "path": "images/hizakurige/book_63.webp",
+      "bytes": 217626,
+      "sha256": "c99facda264ec079e55493b5e20160460e59befa897d5f07724cd106e9b22816"
+    },
+    {
+      "path": "images/hizakurige/book_656.webp",
+      "bytes": 253466,
+      "sha256": "053c2490657dabd6eb0407b0132df8ac0a26dba353c6a9abb59fd51d89b73164"
+    },
+    {
+      "path": "images/hizakurige/book_662.webp",
+      "bytes": 277518,
+      "sha256": "897ddbe31b6d73804c7dd15542b78169e4fbf917f9ae54ac9f3cafd8cf772018"
+    },
+    {
+      "path": "images/hizakurige/book_71.webp",
+      "bytes": 237738,
+      "sha256": "b207cb9ce30c0f09230b9f13c1d30b1467665cc4fec68e7a9e11cf2033aa0c18"
+    },
+    {
+      "path": "images/hizakurige/book_72.webp",
+      "bytes": 201300,
+      "sha256": "7f9031d3512a7063521beb66ade5653ea3849c5d55e472f576a7d0c10bba1b09"
+    },
+    {
+      "path": "images/hizakurige/book_73.webp",
+      "bytes": 199892,
+      "sha256": "05b900dbc7fbd9bedccb878a79b8f314db310551e81a573135c6cf72122c8fc1"
+    },
+    {
+      "path": "images/hizakurige/book_75.webp",
+      "bytes": 188836,
+      "sha256": "20723b30545eabec3be3b2ee883e11d19df07eeead4376e2ca3ce620783d2d6c"
+    },
+    {
+      "path": "images/hizakurige/book_76.webp",
+      "bytes": 208676,
+      "sha256": "886cf471b73c0c319e1e0c1c405a5cb33c203222ca9990fac6366bca2c7afd45"
+    },
+    {
+      "path": "images/hizakurige/book_99.webp",
+      "bytes": 221560,
+      "sha256": "7a056a06a55a98603ebf7b4143541f9fe82fe4dd7469a20c83048231627af0cc"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_0.webp",
+      "bytes": 135962,
+      "sha256": "d6aa6482324bf8428328a99200a8e8e9dcc27d2a4f6822133db4ce13dd74265f"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_1.webp",
+      "bytes": 97416,
+      "sha256": "95dd6f986cf22e427f88ea82ff630475b91e8e05d7c9917a0f9a12a5d3ccb769"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_10.webp",
+      "bytes": 176152,
+      "sha256": "30657ed1b34d450c5e15e0ba9dfa2385b595a5ac1833f9c94201b576c09ad481"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_11.webp",
+      "bytes": 138052,
+      "sha256": "f74aea1e36c4b829d0a5ddc63b3a66d2739d8ad9b33d6ad1ad58c19a6c872eab"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_12.webp",
+      "bytes": 192334,
+      "sha256": "96211737d1892ef67ed9a82b768253257f419e07d3ed680ba3fe688af188dcb0"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_13.webp",
+      "bytes": 148624,
+      "sha256": "1f0df07bde9051ce28071eee3d996a1e139d84692ee221a919b276c70235c708"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_14.webp",
+      "bytes": 171618,
+      "sha256": "7813a81a84f4bb01ecf37d98a0547bea5028653f4cad4ba59fe63be3727d77ba"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_15.webp",
+      "bytes": 167240,
+      "sha256": "b355350d7bb5fa471aa1614f43321b977f46ac19d0741ba85535e48050399f52"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_16.webp",
+      "bytes": 135028,
+      "sha256": "83f67553502e2e835ca8d8acb547bff5251c3b1d62bd7b3123f263b377c036ff"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_17.webp",
+      "bytes": 137420,
+      "sha256": "12ab0db4e9a5a9d3714922b62adb67faf918c7f0fddfea090940097a3e931e9d"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_18.webp",
+      "bytes": 116028,
+      "sha256": "cd212b6e5099be337d8862bc0b2904caf3153f5fd5851a338f3de6726b673c10"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_19.webp",
+      "bytes": 136672,
+      "sha256": "945eca0e3aa9fd7b378273abc16aef14c7e5ecd06de66a91cb94c575b0308aa9"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_2.webp",
+      "bytes": 95628,
+      "sha256": "558e314646d99936d1889ef0f6b32dc01f6e9eaff36d05d7d9b2adc4b341e740"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_20.webp",
+      "bytes": 136888,
+      "sha256": "125c5f02e379ef47045ff360bff774551c7dcbba0c322715d4ff80bd5c67c909"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_21.webp",
+      "bytes": 159684,
+      "sha256": "43714a5b6753fabbf08aea8003ae012d37fa268e79ab92e70399aaa6c16772df"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_22.webp",
+      "bytes": 136520,
+      "sha256": "7d283e5bff9f16d6369a099d5a0aa79777473971d6ef92e7b7a54216aef52ab3"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_23.webp",
+      "bytes": 161942,
+      "sha256": "79b7dac83bfd5418cfd7aa1478e50139779c785c9ed0d9c69da0f18fcc40ea8b"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_24.webp",
+      "bytes": 98584,
+      "sha256": "22ddd091fa6a4b6123fd11b1db8507d6a02a1a019411b4a400cf7e99eb6ee5ee"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_25.webp",
+      "bytes": 134224,
+      "sha256": "cc72af6f2bc533638f90b78fbd06534ed8ffcad9855fb5739e601dd7df0f4d94"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_26.webp",
+      "bytes": 130464,
+      "sha256": "600fe188141a688fac7a8ee07f8643b880be378ea0e0e1f412a9d9b490cf77cc"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_27.webp",
+      "bytes": 126924,
+      "sha256": "7d66906d936eeca491e4383da4ae9bf7de1be9dfae1c53d987293f1be25b5007"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_28.webp",
+      "bytes": 140746,
+      "sha256": "0835f15c8b0120a2f3164e4283dbb88457bb66b384e53bf7a6a277c12ae68a09"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_29.webp",
+      "bytes": 122436,
+      "sha256": "3dff90b7e6a9a8f30cb4492cb44ef42372b79d9a2e7219509f4f4a57dc2bd1f7"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_3.webp",
+      "bytes": 84154,
+      "sha256": "6f5cd085cee06c531dc63964b06bb4cde38f2612c909c6203ac6532d78c52e26"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_30.webp",
+      "bytes": 117322,
+      "sha256": "58c5517badd666651dea891d9d47fbfbddd9b8bd974be9cc3d605079839f8cb2"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_31.webp",
+      "bytes": 131226,
+      "sha256": "ec1b0e84c0ee753936ef8fed4ebb15ca31d80ca5a4327e2287ed568f99df6ef4"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_32.webp",
+      "bytes": 148614,
+      "sha256": "bc2690c40127713a936065d6a12baa533b628d6fdc332fb194f96877bc600764"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_33.webp",
+      "bytes": 153284,
+      "sha256": "4b77c4a7755306450bc38ab6daba87030b1de1a806e56d2e444cb190e50a0c1c"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_34.webp",
+      "bytes": 157046,
+      "sha256": "a7205213de09ce8b62af557d7b72433737e40d31e6ce523b0d05444cb673db3b"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_35.webp",
+      "bytes": 172528,
+      "sha256": "9cd1887de4471ac148320294200ce27769d7874fa3ba3b98ffc7687e694bc5c5"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_36.webp",
+      "bytes": 175936,
+      "sha256": "5e1bd99c909a704e088efe10eac119ebcf3bf2f7cd539e1f9b4fe5a37542ee3e"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_37.webp",
+      "bytes": 145698,
+      "sha256": "7cdb35a417ff05c5cc8595e4fc3478bd3858c89edff37fb6169a09a952b3de3b"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_38.webp",
+      "bytes": 126638,
+      "sha256": "857cf62e25d7e67248d469391c08dc80cede8fc40f8b19dab632a40996ba2aea"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_39.webp",
+      "bytes": 168772,
+      "sha256": "a48541a749dc22f26031f1bd6c1779611b26235cf1403b6394d3d92365b712af"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_4.webp",
+      "bytes": 196142,
+      "sha256": "b9a6611ec394aaefb9c96308b485d621e10e661e63f296aba2a56ccd001f0c2e"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_40.webp",
+      "bytes": 162654,
+      "sha256": "45df2c7edac395003c0467ef8beead8c599f6bf840ecb3899d6ff8f79a2b53ee"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_41.webp",
+      "bytes": 146250,
+      "sha256": "1396703751f03d4f711036c8bff829309cdf4facc624efa8abfc36ec3d997ff5"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_42.webp",
+      "bytes": 143598,
+      "sha256": "b2aaae990d4a8e4250f202f67907d6ee9255df141f35f88c1a2ec92f320389c7"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_43.webp",
+      "bytes": 179582,
+      "sha256": "5e9d32c0c961e0c0af58bf5d3be898e3380d91097158ed30991359d37303cb9b"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_5.webp",
+      "bytes": 153888,
+      "sha256": "2d6017a606fc77b71bb7b2206fe27083f1c637f1aebae59dedbc9f855866b5ae"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_6.webp",
+      "bytes": 114734,
+      "sha256": "ee3baa475e2fcc0ad97e2bcb7d54857a22645dad8de70a42a16039a79462c82a"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_7.webp",
+      "bytes": 96286,
+      "sha256": "795d37a346eb8cbc781fa13441805da8d7596e6a90f014bce611fd1b1cb5733a"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_8.webp",
+      "bytes": 117872,
+      "sha256": "ab416b3b8d74dc6de05c230b67eaf8d846d6d6f3ff2ffaa27a41fbba738e0f0f"
+    },
+    {
+      "path": "images/hizakurige/hiroshige_9.webp",
+      "bytes": 121938,
+      "sha256": "d9a33b1ee75c224a8d5ed0ff956c231d08a459bbaf161ad9261401c8818e5807"
+    },
+    {
+      "path": "images/places/asaka.webp",
+      "bytes": 290474,
+      "sha256": "43adfa18ab57ca5bb5483d75e2d4624fec1b77bf495bfc503edbd872217e6773"
+    },
+    {
+      "path": "images/places/ashino.webp",
+      "bytes": 66698,
+      "sha256": "0d0374d2281c456cc756f672130b1fa92be73f7ba0645222d5aece7de1a94a2d"
+    },
+    {
+      "path": "images/places/eiheiji.webp",
+      "bytes": 219866,
+      "sha256": "50eb5271f0b04dd64853c75e807f3937000757ee402d7c60af1afb9b4911a5ec"
+    },
+    {
+      "path": "images/places/fukagawa.webp",
+      "bytes": 79748,
+      "sha256": "b315ba4eedeb02dd88e689c882a1b0803ba6d2fda69e96c073f4a8dba164f68a"
+    },
+    {
+      "path": "images/places/fukushima.webp",
+      "bytes": 111062,
+      "sha256": "1d065d216eb90015749e47e5e2d2699640e7a142fdd745779284e595162d1b7b"
+    },
+    {
+      "path": "images/places/fushimi.webp",
+      "bytes": 134802,
+      "sha256": "97721daf2f1875030048421cd06b60e53710afd5b2ae852e8bd687d9fe52f4c9"
+    },
+    {
+      "path": "images/places/gassan.webp",
+      "bytes": 90762,
+      "sha256": "998a892bdd46fa94151283d346a0f0a0a41fd6c0b2ed54b8c0c87184de16a97c"
+    },
+    {
+      "path": "images/places/gojo.webp",
+      "bytes": 98970,
+      "sha256": "b65d60d051c72f015fbdf6cea86451488e1d1c37fa2b0369399a0cbdc81351a1"
+    },
+    {
+      "path": "images/places/hirakata.webp",
+      "bytes": 187170,
+      "sha256": "693b26847b509ba1f592e02c1c21386be8b7e323d40188d82fb5ccf1b57f8908"
+    },
+    {
+      "path": "images/places/hojin.webp",
+      "bytes": 162476,
+      "sha256": "1db84652308dc7375c213660cb3c8d8507062055f93c244d8748f017eb6676a1"
+    },
+    {
+      "path": "images/places/hokoji.webp",
+      "bytes": 173668,
+      "sha256": "201fad805158f93720960c3b7da5c41588efdc32c344b3fec31fca6ed5c6bc7e"
+    },
+    {
+      "path": "images/places/ichiburi.webp",
+      "bytes": 155518,
+      "sha256": "1589db3fd2b61f2ca7827b35ccebd71a86392858d7e20c0403c9aa254dc550de"
+    },
+    {
+      "path": "images/places/iizaka.webp",
+      "bytes": 157106,
+      "sha256": "7f31312b2d22309aca179d6263f8b8fd94b694034fdec2e457a4275b54198a8d"
+    },
+    {
+      "path": "images/places/ikasuri.webp",
+      "bytes": 114022,
+      "sha256": "3d64b076425becd63abf0cbec8992e324fb027ba8e5f0cf1ddd5831f9d312e88"
+    },
+    {
+      "path": "images/places/imaichi.webp",
+      "bytes": 198658,
+      "sha256": "1a033552c87799f39e7c835ff10c81662adeb6d64a037b14977506e9a3295340"
+    },
+    {
+      "path": "images/places/irohama.webp",
+      "bytes": 85674,
+      "sha256": "0d5f1541cc479a1d3bfadcd4b5174b80a49ac696e3fcc9c4c788ee1fc6381c14"
+    },
+    {
+      "path": "images/places/ise-geku.webp",
+      "bytes": 185000,
+      "sha256": "b7339eaa06345891cd501635516c53307f6a295229a1f7e75d7726716e8d8ef0"
+    },
+    {
+      "path": "images/places/ishinomaki.webp",
+      "bytes": 243034,
+      "sha256": "f36bfee4b8a4cfdea4f113cb23c641eda047d48337e6764cb9ad0dd14e407cf0"
+    },
+    {
+      "path": "images/places/isoyama.webp",
+      "bytes": 24980,
+      "sha256": "7b0f533baf09d98b753304059dc02869a2d37c6de6a56b4b98dcdbf3cfb6b00f"
+    },
+    {
+      "path": "images/places/iwade.webp",
+      "bytes": 217558,
+      "sha256": "7ae38ac551880eb2604a3e6ba031f3bea61f935b0ab50f63f19545070c4baf43"
+    },
+    {
+      "path": "images/places/izumozaki.webp",
+      "bytes": 45376,
+      "sha256": "d468c87dc4c9a024cc536161b75dbb77d41c5bc01faa7781c75f563a6c98d7a4"
+    },
+    {
+      "path": "images/places/junkei.webp",
+      "bytes": 177630,
+      "sha256": "552a743ae7d19246c7002acc0e39b94878eb12a3e5839cdac0b38852870de21e"
+    },
+    {
+      "path": "images/places/kanbe.webp",
+      "bytes": 153308,
+      "sha256": "d3e2f2ea105a9cceee1b9fb32f41d3835eb3a71ab7a8fb2730d8903d0ad56f6a"
+    },
+    {
+      "path": "images/places/kanuma.webp",
+      "bytes": 138530,
+      "sha256": "465997ba9736a2cb280daaa80fb104f74160529c9febf6f45ed658b6ee5da0f3"
+    },
+    {
+      "path": "images/places/kasashima.webp",
+      "bytes": 249822,
+      "sha256": "8089a35295bc99e1f82b009d0085c0f11deae61810c7c31d09908041fbeea78c"
+    },
+    {
+      "path": "images/places/kashiwazaki.webp",
+      "bytes": 207524,
+      "sha256": "587a86882c3d6805248db01c8312774ab45d897a3e29f329186cd86bcf499195"
+    },
+    {
+      "path": "images/places/kasukabe.webp",
+      "bytes": 120118,
+      "sha256": "bd7a6cb9dcc4b9641d7403ef3b0db0f5e34bb717bd99b77ea2130143d16d3ff2"
+    },
+    {
+      "path": "images/places/kinomoto.webp",
+      "bytes": 185862,
+      "sha256": "db381a0964be60c1a8fc3939a4c8345e71fa78d8a62e1bb0b9b27579b1d96875"
+    },
+    {
+      "path": "images/places/kiyokawa.webp",
+      "bytes": 140080,
+      "sha256": "c223d5b909bb1ec4b495c94001de5c10b4d2702e80b5ea24d798b799a5220194"
+    },
+    {
+      "path": "images/places/komatsu.webp",
+      "bytes": 173336,
+      "sha256": "822b98d03223b4f7f068f5fb4fe14e211022c753d2a55ca151e2f5b0114a9511"
+    },
+    {
+      "path": "images/places/kumozu.webp",
+      "bytes": 121754,
+      "sha256": "7895bd49995fcbc5ada019697df362499676ff7f15a4d11c652e663eaf1561e2"
+    },
+    {
+      "path": "images/places/kurikara.webp",
+      "bytes": 230820,
+      "sha256": "f630eaa0844fa5d0237bcb4db0ed5fb712d7ab13688d661e38d1a66144353516"
+    },
+    {
+      "path": "images/places/kurobane.webp",
+      "bytes": 177260,
+      "sha256": "87ea4a1cfcb3226d903974311c1fb6eb89b78596a6b48181fe9b33a117168601"
+    },
+    {
+      "path": "images/places/kurobe.webp",
+      "bytes": 29194,
+      "sha256": "e4ec35845c0009865cd876de9016a0559a7a1509a3982bed8676044787548c9c"
+    },
+    {
+      "path": "images/places/kurozuka.webp",
+      "bytes": 118518,
+      "sha256": "c6e73770c584e7328ac8e905186263d8d7014f5864ee30ab4e0d328279cd49f2"
+    },
+    {
+      "path": "images/places/matsusaka.webp",
+      "bytes": 175924,
+      "sha256": "a3471bce22a20efb2f30746d7f0c161d43ef2d2ebe21794c747a76fd01603750"
+    },
+    {
+      "path": "images/places/murakami.webp",
+      "bytes": 322558,
+      "sha256": "12cd1ebc034a8890b46974609927697f9dfac08adf20af1146177f4e16da1e78"
+    },
+    {
+      "path": "images/places/muro.webp",
+      "bytes": 254080,
+      "sha256": "f174b1991106afea2365d8add2154b2ff8b16a0c2e8fe1b89490376e8d8d218e"
+    },
+    {
+      "path": "images/places/nagamachi.webp",
+      "bytes": 108088,
+      "sha256": "64d1e92da060690a87c8de8f42b0677e7f9452fb98cd463ff81d3a6041493603"
+    },
+    {
+      "path": "images/places/nago.webp",
+      "bytes": 90548,
+      "sha256": "1d61761293856e8c2ebcccee2a60d1fb4f9c7480ccdc14f1f0c2b86e05d9a7bb"
+    },
+    {
+      "path": "images/places/namerikawa.webp",
+      "bytes": 99010,
+      "sha256": "ed9dc7460234e61d1575a63aad1bc8654a87685cf3fa4a6c8c2c5357d913064d"
+    },
+    {
+      "path": "images/places/naoetsu.webp",
+      "bytes": 78692,
+      "sha256": "703a07ee2fb5d4485b005be90d70350df93279f473b4c0c09e5f1cbd015b9e8e"
+    },
+    {
+      "path": "images/places/nasu.webp",
+      "bytes": 51190,
+      "sha256": "7c624eb7e405086654044aec993eb31806b298b71ff6b603520ebf5137ab065a"
+    },
+    {
+      "path": "images/places/natadera.webp",
+      "bytes": 247932,
+      "sha256": "cf50fb92edfd8acd79732a78fe727c3c0de2dd00b8428370417e73c998257e85"
+    },
+    {
+      "path": "images/places/nezuga.webp",
+      "bytes": 259690,
+      "sha256": "d5109e67ae32d3730783d012bf76c36662ad5439bb7262a48e84053eb5580041"
+    },
+    {
+      "path": "images/places/niigata.webp",
+      "bytes": 113240,
+      "sha256": "71ddab7c9ba7064be48747d95c54e53a0928ecdfcf2f4f2247d64468884f7e63"
+    },
+    {
+      "path": "images/places/obanazawa.webp",
+      "bytes": 74562,
+      "sha256": "79244cfee3c8d9c50bdba9e4c777623a4d556b355c9c4bb17c178529425a473a"
+    },
+    {
+      "path": "images/places/oishida.webp",
+      "bytes": 75484,
+      "sha256": "6cfb64ad071689c207efd94cbea0191ce2e2594be5839c9305c3dd01c283f122"
+    },
+    {
+      "path": "images/places/osaka.webp",
+      "bytes": 78784,
+      "sha256": "0b563723514294363971d16c8a9e0278606a8f779375848ffa3caa38754cfc7c"
+    },
+    {
+      "path": "images/places/oyashirazu.webp",
+      "bytes": 114648,
+      "sha256": "3781ca7e99179003fcb1aa6cf45953e175b6b881d054e818c869b061f207cff4"
+    },
+    {
+      "path": "images/places/sakata.webp",
+      "bytes": 36060,
+      "sha256": "d27e8d8123acb437cb652aaa4b62d79d9bd0ae0ea28c22ad302fa82d1285815c"
+    },
+    {
+      "path": "images/places/sanjo.webp",
+      "bytes": 84218,
+      "sha256": "5d13e4e085a914f2da12abfcf421f9e378bb2d2c119cdb8bcc13fd4111bf71ed"
+    },
+    {
+      "path": "images/places/sato.webp",
+      "bytes": 213110,
+      "sha256": "3ddeaa705bacb7e6f19e7cbaa886b657998a6735f29d22fd6ef882bef6d3322d"
+    },
+    {
+      "path": "images/places/sekigahara.webp",
+      "bytes": 212650,
+      "sha256": "e26d3636186971dbea4cb4a9c16ac8ee39d374e615a9f5fc09609bd487869eac"
+    },
+    {
+      "path": "images/places/sendai.webp",
+      "bytes": 119728,
+      "sha256": "b3021a1e0f4b40f0a7824d2d36b2dacdfeabf0d1718b565061a5770753b8cc89"
+    },
+    {
+      "path": "images/places/senju.webp",
+      "bytes": 104236,
+      "sha256": "fc8c4cbc4985a11cc9600fec16657200f63d279d04b7d678bd009bd70d7613f1"
+    },
+    {
+      "path": "images/places/sessho.webp",
+      "bytes": 225484,
+      "sha256": "8cd51092e46f9ec33528840fe066255f26de9bd6eb4a95ca9d5a012e3c068d86"
+    },
+    {
+      "path": "images/places/shinjo.webp",
+      "bytes": 171234,
+      "sha256": "038ea9a5cb6ebd2359de3d7c1169ab5c5d8fb60461510a36d0258ed09847620e"
+    },
+    {
+      "path": "images/places/shiogama.webp",
+      "bytes": 88898,
+      "sha256": "3883a7114107ea64940cb9f277568bf74d50f61c2c963f7124e698b3d1283654"
+    },
+    {
+      "path": "images/places/shiokoshi.webp",
+      "bytes": 57216,
+      "sha256": "69fc3cda805c242f803e8ead479bd1217bab52e47259c19feb152d390ffe71a9"
+    },
+    {
+      "path": "images/places/shiroishi.webp",
+      "bytes": 257196,
+      "sha256": "d06360b9270acd3ee1d74e6d592966f5d51bcb20dd54a7215706d2669bba6102"
+    },
+    {
+      "path": "images/places/shiroko.webp",
+      "bytes": 50650,
+      "sha256": "8b2f8fad496c4450dbe9baf6f16f77da7db43e3f45cad5d2923b435efbba1baf"
+    },
+    {
+      "path": "images/places/shitomae.webp",
+      "bytes": 167664,
+      "sha256": "e1a57eaae554bc8e2d5b08ad92e0207b10ebd6e06f98fff0364d145298fa5a5f"
+    },
+    {
+      "path": "images/places/soka.webp",
+      "bytes": 53120,
+      "sha256": "99a5b61e1f725c52978ab404a2bff927b85f69a4dacb14c1958afb70dbe9be02"
+    },
+    {
+      "path": "images/places/sue.webp",
+      "bytes": 159584,
+      "sha256": "7ab17e0352c95d5aa66ec4472cb80d05fdbdb95294964a32ab2daf9459bf21e8"
+    },
+    {
+      "path": "images/places/sukagawa.webp",
+      "bytes": 62888,
+      "sha256": "ba0d4587e1442750205b63b316713f0f01a026eed8d5650a99c79d4b3d8e7936"
+    },
+    {
+      "path": "images/places/sumiyoshi.webp",
+      "bytes": 230144,
+      "sha256": "5781b247bbf2b603160ff8a55369f8d6575503195819fdeb2d42feaa27bd5a91"
+    },
+    {
+      "path": "images/places/tagajo.webp",
+      "bytes": 180928,
+      "sha256": "ab2ab50ab57da6d6af762c23e38dcc7607fd56b0deaf65000f15f2ef9ff72a36"
+    },
+    {
+      "path": "images/places/takaoka.webp",
+      "bytes": 87448,
+      "sha256": "decdbd89bf2657657cbafd7b6d63733f53c763d14964c205ad639a3454a616cd"
+    },
+    {
+      "path": "images/places/takefu.webp",
+      "bytes": 181360,
+      "sha256": "c83948f5fdcc0ba8de1dcea266b52d2c06c77b4bc3c4425d9caf28ff7e1bddff"
+    },
+    {
+      "path": "images/places/takekuma.webp",
+      "bytes": 154614,
+      "sha256": "eb5cfe324f5a35f8a4722b63af7274721ba85e437936c457d4dd1b72b21eb470"
+    },
+    {
+      "path": "images/places/tenryuji.webp",
+      "bytes": 108448,
+      "sha256": "b765217b6d33bc8844ad2f7808fe1e0255c84b23457fbd8fd4ef0c3b3255796b"
+    },
+    {
+      "path": "images/places/tome.webp",
+      "bytes": 105148,
+      "sha256": "bf7ebc06fd7c6c6a85a3dc3ec3906c7ccc2e2cf3839ba73fa15f1eac57daa74c"
+    },
+    {
+      "path": "images/places/tsu.webp",
+      "bytes": 235288,
+      "sha256": "23f923948760d717a32cb188d89b26833207095a74fb6d8f57e63a4c12d7527a"
+    },
+    {
+      "path": "images/places/tsuruoka.webp",
+      "bytes": 127774,
+      "sha256": "a1724c20cbf5a0f12be06e6abc6eb85cf23f4f7324d0c41bbf14ea2b60b033e9"
+    },
+    {
+      "path": "images/places/uji.webp",
+      "bytes": 248154,
+      "sha256": "ce54ea0025aacbaf7406a00c5b02393a1e4d6ec54e10135405cab40430a27e45"
+    },
+    {
+      "path": "images/places/unganji.webp",
+      "bytes": 236722,
+      "sha256": "3eec49d1804dab7d9a303690ffabc538ade481b92fb912cf8be7df29d20d01c9"
+    },
+    {
+      "path": "images/places/yahiko.webp",
+      "bytes": 157912,
+      "sha256": "76be74a573ebb9472702a2a70a99e3137c097abbdc04afaa8d3e8c6fdbb51ffd"
+    },
+    {
+      "path": "images/places/yamanaka.webp",
+      "bytes": 366494,
+      "sha256": "5230d87049782a9e1252eedac0d31af9c8d95a5fec5bb6deb0f82c4c277a2eda"
+    },
+    {
+      "path": "images/places/yamato.webp",
+      "bytes": 76338,
+      "sha256": "2cedcb34b3f38c24db19bc7c3cf865f551306ad30d09fcb79e6c5b903100f5ae"
+    },
+    {
+      "path": "images/places/yudono.webp",
+      "bytes": 90832,
+      "sha256": "c0675be60aa75bd32e51de1ea18e5153965b73ec20b22a6ccf4d8c0889be72d1"
+    },
+    {
+      "path": "images/places/zenshoji.webp",
+      "bytes": 199062,
+      "sha256": "4eeaecece1b6333305bd7893796c13f6105b3a5df5c54425085c9106eeb7aac2"
+    },
+    {
+      "path": "images/places/zuiganji.webp",
+      "bytes": 137730,
+      "sha256": "c690381db5780e709ec8a1b9b652becf9a98c3fe3885ad87ce3e8b45489b3522"
+    },
+    {
+      "path": "index.html",
+      "bytes": 1774,
+      "sha256": "78cd3ee90e3f7aa106178c075a2c6ee2e396d53a00739321f48fb3a759224e90"
+    },
+    {
+      "path": "js/app.js",
+      "bytes": 40234,
+      "sha256": "499b79e2937c2b50bfae3176f0ff6ef3c395020311b252c5aeedeaf91f134482"
+    },
+    {
+      "path": "js/map.js",
+      "bytes": 9232,
+      "sha256": "18164e416bb21b8a5eb49afcf60cddf72518adb516437a0d9e4715fbba58d4a3"
+    },
+    {
+      "path": "js/storage.js",
+      "bytes": 4752,
+      "sha256": "75373e30391a2e2b1b24eed8a8e18e2820dbbfbdbc99ea6785a40756c1dad88d"
+    },
+    {
+      "path": "js/utils.js",
+      "bytes": 921,
+      "sha256": "8f29f6ab51e6765757fdd79625d9b4370d27882a029971b590e243d58057c00d"
+    },
+    {
+      "path": "manifest.webmanifest",
+      "bytes": 278,
+      "sha256": "67ac39177b8af82be4f50d0374a1c71dbfb1322b12b32d2c905f9820099ebde8"
+    },
+    {
+      "path": "sw.js",
+      "bytes": 2552,
+      "sha256": "d2faa3173505a4426d27ecfd0b6810d4fa438a697935b8c6a75f0024d17986ad"
+    },
+    {
+      "path": "tools/package-continuation.py",
+      "bytes": 1328,
+      "sha256": "3c7d143692213a59d3d1633e10c34b72e636e5659d012aca306b5e124a9041a5"
+    },
+    {
+      "path": "tools/package-update.py",
+      "bytes": 3246,
+      "sha256": "baaa8b2f8647e34a4d5dc4f6bbc2ac44196eaaa081d97fbf97184917ccbd4583"
+    },
+    {
+      "path": "tools/verify-continuation.py",
+      "bytes": 3347,
+      "sha256": "7b45829cf70570b77ba135d5ee4edd6fca2f102e04b0ce7b2e8cf9e2a2f23075"
+    },
+    {
+      "path": "tools/verify-data.py",
+      "bytes": 3395,
+      "sha256": "5e5796cdee441dac6e2606fd56d7db3ce291882eb82275ab42cf41a4b24e4093"
+    },
+    {
+      "path": "tools/verify-update.cjs",
+      "bytes": 15065,
+      "sha256": "cf06aeb061286edc9f03677e82e850863040cf6a875e473a3bf09fad055c5571"
+    }
+  ]
+}

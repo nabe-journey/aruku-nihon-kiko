@@ -1,0 +1,25 @@
+{
+  "result": "passed",
+  "version": "2.2.4",
+  "chapters": 58,
+  "modernChanged": [
+    "nissaka",
+    "osaka-night",
+    "sumiyoshi-ending"
+  ],
+  "placementChanged": [
+    "numazu",
+    "kakegawa"
+  ],
+  "illustrations": 27,
+  "illustratedChapters": 24,
+  "hiroshigeAppreciations": 44,
+  "unchangedRoutesAndRecords": true,
+  "unchangedOriginalText": true,
+  "unchangedOkuNoHosomichi": true,
+  "allReferencedImageFilesPresent": true,
+  "allJavascriptSyntaxPassed": true,
+  "allJsonValid": true,
+  "metadataMirrored": true,
+  "visualManualTest": "not verified: Chromium localhost blocked by administrator; see editorial-browser-check-2.2.4.json"
+}

@@ -1,0 +1,334 @@
+{
+  "version": "2.3.0-editorial-complete",
+  "baseline": "2.2.8-editorial-continuation",
+  "chaptersTotal": 58,
+  "previouslyEditedChapters": 38,
+  "newlyEditedChapters": 20,
+  "cumulativeEditedChapters": 58,
+  "cumulativeIds": [
+    "departure",
+    "shinagawa",
+    "kawasaki",
+    "kanagawa",
+    "hodogaya",
+    "totsuka",
+    "fujisawa",
+    "hiratsuka",
+    "oiso",
+    "bath",
+    "hakone",
+    "mishima",
+    "numazu",
+    "hara",
+    "sweets",
+    "kanbara",
+    "yui",
+    "okitsu",
+    "ejiri",
+    "fuchu",
+    "tororo",
+    "okabe",
+    "fujieda",
+    "shimada",
+    "kanaya",
+    "nissaka",
+    "kakegawa",
+    "fukuroi",
+    "mitsuke",
+    "hamamatsu",
+    "maisaka",
+    "arai",
+    "shirasuka",
+    "futagawa",
+    "yoshida",
+    "goyu",
+    "akasaka",
+    "fujikawa",
+    "okazaki",
+    "chiryu",
+    "narumi",
+    "boat",
+    "kuwana",
+    "manju",
+    "ise-road",
+    "ise-shiroko",
+    "ise-tsu",
+    "ise-matsusaka",
+    "ise-shrine",
+    "kyoto-fushimi",
+    "wrong-boat",
+    "kyoto-buddha",
+    "kyoto-clothes",
+    "kyoto-ladder",
+    "osaka-arrival",
+    "osaka-night",
+    "osaka-lottery",
+    "sumiyoshi-ending"
+  ],
+  "stillWithoutTargetedEditorialChanges": 0,
+  "newChanges": [
+    {
+      "id": "oiso",
+      "title": "といて、かけて、長い謎",
+      "reference": "01-09",
+      "sourceEvidence": [
+        "といて、かけて、長い謎"
+      ],
+      "reason": "謎掛けの応酬が宿入りへ自然につながるよう末尾を補い、場面の締まりを整えた",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "numazu",
+      "title": "旅の金が、石ころになった",
+      "reference": "02-02",
+      "sourceEvidence": [
+        "旅の金が、石ころになった"
+      ],
+      "reason": "盗難後の落胆と再出発の調子が見えるよう、末尾の運びを整えた",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "hara",
+      "title": "百文の巾着と、そばの湯",
+      "reference": "02-02",
+      "sourceEvidence": [
+        "百文の巾着と、そばの湯"
+      ],
+      "reason": "巾着売買のあとに百文のありがたさが伝わるよう、結びを補った",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "sweets",
+      "title": "二五の三文？ 菓子屋の勘定",
+      "reference": "02-02",
+      "sourceEvidence": [
+        "二五の三文？ 菓子屋の勘"
+      ],
+      "reason": "子ども相手に油断して負ける落ちが立つよう、締め方を整えた",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "okitsu",
+      "title": "黄な粉だと思った団子",
+      "reference": "02-04",
+      "sourceEvidence": [
+        "黄な粉だと思った団子"
+      ],
+      "reason": "糠団子騒動のあとに食への用心が残るよう、余韻を補った",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "ejiri",
+      "title": "親切な客と、親切な馬方",
+      "reference": "02-05",
+      "sourceEvidence": [
+        "親切な客と、親切な馬方"
+      ],
+      "reason": "馬方と旅人のほら話めいた「親切」の面白さが分かるよう、結びを補った",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "tororo",
+      "title": "とろろ汁は、食べる前に",
+      "reference": "02-07",
+      "sourceEvidence": [
+        "とろろ汁は、食べる前に"
+      ],
+      "reason": "名物を食べずじまいで終わる落ちを明確にした",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 5,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "okabe",
+      "title": "川明けの朝、ねぎまを頼む",
+      "reference": "03-01",
+      "sourceEvidence": [
+        "川明けの朝、ねぎまを頼む"
+      ],
+      "reason": "川明けの高揚と茶屋での落胆がつながるよう整理した",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "shimada",
+      "title": "即席の侍、刀の先が折れる",
+      "reference": "03-03",
+      "sourceEvidence": [
+        "即席の侍、刀の先が折れる"
+      ],
+      "reason": "偽侍の失敗と実際の川越えを一続きの落ちとして整えた",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 5,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "kanaya",
+      "title": "底の抜けた駕籠",
+      "reference": "03-04",
+      "sourceEvidence": [
+        "底の抜けた駕籠"
+      ],
+      "reason": "褌で繕った駕籠から結局歩く流れが分かるよう整理した",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 5,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "maisaka",
+      "title": "船で逃げた蛇と、浮く脇差",
+      "reference": "03-10",
+      "sourceEvidence": [
+        "船で逃げた蛇と、浮く脇差"
+      ],
+      "reason": "蛇騒動の余韻から関所前へ進む締め方を補った",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 5,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "shirasuka",
+      "title": "拾った銭で、酒をおごったが",
+      "reference": "04-02",
+      "sourceEvidence": [
+        "拾った銭で、酒をおごった"
+      ],
+      "reason": "拾い物で見栄を張った結果が自分に返る落ちを明確にした",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "akasaka",
+      "title": "悪口に、自分から名乗り出る",
+      "reference": "04-06",
+      "sourceEvidence": [
+        "悪口に、自分から名乗り出"
+      ],
+      "reason": "自分から騒ぎを大きくする滑稽が立つよう整理した",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "fujikawa",
+      "title": "悪ふざけを、病のふりで取り繕う",
+      "reference": "04-07",
+      "sourceEvidence": [
+        "悪ふざけを、病のふりで取"
+      ],
+      "reason": "その場しのぎの言い訳で逃れる構図が分かるよう結びを補った",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "chiryu",
+      "title": "草履は、片方だけでは履けない",
+      "reference": "04-09",
+      "sourceEvidence": [
+        "草履は、片方だけでは履け"
+      ],
+      "reason": "餅屋の手口の真似が草履では通じないことが分かるよう整えた",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "manju",
+      "title": "饅頭の食べ比べと、大津の釜七",
+      "reference": "05-02",
+      "sourceEvidence": [
+        "饅頭の食べ比べと、大津の"
+      ],
+      "reason": "釜七にしてやられる食べ比べ勝負の落ちを締め直した",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 5,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "ise-road",
+      "title": "伊勢へ曲がる道、何度も馬を下ろされ",
+      "reference": "05-03",
+      "sourceEvidence": [
+        "伊勢へ曲がる道、何度も馬"
+      ],
+      "reason": "伊勢街道へ折れた早々に散々な目に遭う滑稽が立つよう補った",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "ise-tsu",
+      "title": "人の煙草と、作者のふり",
+      "reference": "05-05",
+      "sourceEvidence": [
+        "人の煙草と、作者のふり"
+      ],
+      "reason": "雲出の宿の連続する失敗譚として全体の締めを整えた",
+      "beforeParagraphs": 9,
+      "afterParagraphs": 9,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "osaka-night",
+      "title": "まだ受け取らぬ百両で、身支度",
+      "reference": "08-02",
+      "sourceEvidence": [
+        "まだ受け取らぬ百両で、身"
+      ],
+      "reason": "見栄と借り物の豪遊が崩れる流れを一続きに整えた",
+      "beforeParagraphs": 7,
+      "afterParagraphs": 7,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "sumiyoshi-ending",
+      "title": "住吉の雷雨、長町へ帰る",
+      "reference": "08-03",
+      "sourceEvidence": [
+        "住吉の雷雨、長町へ帰る"
+      ],
+      "reason": "雷雨の酒席から正編の幕切れまで、結末としての調子を整えた",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 5,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    }
+  ],
+  "importantEditorialBoundary": "抄訳の重点改訂は58篇すべて完了。今後の追加作業があるとすれば、主として原作挿絵の新規採用・差し替えや、伝本間比較の精密化である。",
+  "notes": "2.3.0では未改訂20篇に最終パスを行い、各篇の結びや場面の流れを整えた。既存の版本挿絵27点と広重鑑賞44件は維持。非早稲田の公開所蔵先は確認済みだが、58篇への場面照合が済んだもののみ将来の追加候補とする。",
+  "illustrations": "27 existing original-edition scenes retained, 0 new primary images added; Hiroshige appreciations retained for 44 works"
+}

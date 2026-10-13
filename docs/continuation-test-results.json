@@ -1,0 +1,30 @@
+{
+  "dateJST": "2026-10-13",
+  "version": "2.2.2",
+  "status": "passed",
+  "baseline": "restored 2.2.1 Library delivery",
+  "counts": {
+    "readings": 58,
+    "illustratedReadings": 24,
+    "sceneReadings": 21,
+    "contextOnlyReadings": 3,
+    "unillustratedReadings": 34,
+    "linkedImages": 27,
+    "sceneImages": 22,
+    "contextImages": 5,
+    "hiroshigeCommentaries": 44,
+    "readingsWithoutSceneImage": 37
+  },
+  "imagesDecoded": 103,
+  "newImageFilesSince221": 1,
+  "checks": [
+    "all original reading text/IDs/paragraphs/points/routes/distances preserved",
+    "storage/map/utils/other-course/original-text bytes preserved",
+    "all baseline image bytes preserved",
+    "all 44 Hiroshige images and commentary fields preserved",
+    "all 58 paragraph anchors and survey records valid",
+    "all caption lengths and image dimensions/sizes verified",
+    "machine-readable image licenses match",
+    "scene/context/unillustrated counts independently recomputed"
+  ]
+}

@@ -1,0 +1,1148 @@
+[
+  {
+    "volume": "初編",
+    "firstFrame": 38,
+    "lastFrame": 79,
+    "figures": [
+      {
+        "frame": 42,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00042",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00042.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 2,
+          "frameInVolume": 8,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002_p0008.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 51,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00051",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00051.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 2,
+          "frameInVolume": 17,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002_p0017.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 63,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00063",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00063.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 2,
+          "frameInVolume": 29,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002_p0029.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 71,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00071",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00071.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 2,
+          "frameInVolume": 37,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002_p0037.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0002/he13_03123_0002.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "後編乾",
+    "firstFrame": 80,
+    "lastFrame": 118,
+    "figures": [
+      {
+        "frame": 91,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00091",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00091.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 3,
+          "frameInVolume": 16,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0003/he13_03123_0003_p0016.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0003/he13_03123_0003.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 99,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00099",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00099.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 3,
+          "frameInVolume": 24,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0003/he13_03123_0003_p0024.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0003/he13_03123_0003.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 113,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00113",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00113.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 3,
+          "frameInVolume": 38,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0003/he13_03123_0003_p0038.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0003/he13_03123_0003.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "後編坤",
+    "firstFrame": 119,
+    "lastFrame": 153,
+    "figures": [
+      {
+        "frame": 131,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00131",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00131.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 4,
+          "frameInVolume": 13,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0004/he13_03123_0004_p0013.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0004/he13_03123_0004.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 143,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00143",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00143.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 4,
+          "frameInVolume": 25,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0004/he13_03123_0004_p0025.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0004/he13_03123_0004.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "三編上",
+    "firstFrame": 154,
+    "lastFrame": 187,
+    "figures": [
+      {
+        "frame": 158,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00158",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00158.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 5,
+          "frameInVolume": 7,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005_p0007.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 166,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00166",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00166.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 5,
+          "frameInVolume": 15,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005_p0015.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 172,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00172",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00172.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 5,
+          "frameInVolume": 21,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005_p0021.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 181,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00181",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00181.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 5,
+          "frameInVolume": 30,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005_p0030.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0005/he13_03123_0005.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "三編下",
+    "firstFrame": 188,
+    "lastFrame": 222,
+    "figures": [
+      {
+        "frame": 191,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00191",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00191.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 6,
+          "frameInVolume": 4,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006_p0004.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 198,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00198",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00198.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 6,
+          "frameInVolume": 11,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006_p0011.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 206,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00206",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00206.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 6,
+          "frameInVolume": 19,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006_p0019.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 215,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00215",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00215.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 6,
+          "frameInVolume": 28,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006_p0028.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0006/he13_03123_0006.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "四編上",
+    "firstFrame": 223,
+    "lastFrame": 259,
+    "figures": [
+      {
+        "frame": 227,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00227",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00227.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 7,
+          "frameInVolume": 7,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007_p0007.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 234,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00234",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00234.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 7,
+          "frameInVolume": 14,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007_p0014.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 241,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00241",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00241.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 7,
+          "frameInVolume": 22,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007_p0022.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 248,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00248",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00248.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 7,
+          "frameInVolume": 29,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007_p0029.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0007/he13_03123_0007.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "四編下",
+    "firstFrame": 260,
+    "lastFrame": 292,
+    "figures": [
+      {
+        "frame": 264,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00264",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00264.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 8,
+          "frameInVolume": 5,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0008/he13_03123_0008_p0005.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0008/he13_03123_0008.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 272,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00272",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00272.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 8,
+          "frameInVolume": 13,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0008/he13_03123_0008_p0013.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0008/he13_03123_0008.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 281,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00281",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00281.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 8,
+          "frameInVolume": 22,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0008/he13_03123_0008_p0022.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0008/he13_03123_0008.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "五編上",
+    "firstFrame": 293,
+    "lastFrame": 327,
+    "figures": [
+      {
+        "frame": 297,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00297",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00297.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 9,
+          "frameInVolume": 9,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009_p0009.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 303,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00303",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00303.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 9,
+          "frameInVolume": 15,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009_p0015.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 309,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00309",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00309.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 9,
+          "frameInVolume": 21,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009_p0021.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 315,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00315",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00315.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 9,
+          "frameInVolume": 27,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009_p0027.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 321,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00321",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00321.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 9,
+          "frameInVolume": 33,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009_p0033.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0009/he13_03123_0009.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "五編下",
+    "firstFrame": 328,
+    "lastFrame": 370,
+    "figures": [
+      {
+        "frame": 333,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00333",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00333.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 10,
+          "frameInVolume": 6,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010_p0006.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 339,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00339",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00339.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 10,
+          "frameInVolume": 12,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010_p0012.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 345,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00345",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00345.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 10,
+          "frameInVolume": 18,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010_p0018.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 349,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00349",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00349.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 10,
+          "frameInVolume": 22,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010_p0022.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 356,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00356",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00356.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 10,
+          "frameInVolume": 29,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010_p0029.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 366,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00366",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00366.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 10,
+          "frameInVolume": 39,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010_p0039.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0010/he13_03123_0010.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "五編追加",
+    "firstFrame": 371,
+    "lastFrame": 417,
+    "figures": [
+      {
+        "frame": 375,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00375",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00375.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 11,
+          "frameInVolume": 6,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011_p0006.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 381,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00381",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00381.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 11,
+          "frameInVolume": 12,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011_p0012.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 384,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00384",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00384.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 11,
+          "frameInVolume": 15,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011_p0015.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 387,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00387",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00387.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 11,
+          "frameInVolume": 18,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011_p0018.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 393,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00393",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00393.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 11,
+          "frameInVolume": 24,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011_p0024.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0011/he13_03123_0011.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "六編上",
+    "firstFrame": 418,
+    "lastFrame": 452,
+    "figures": [
+      {
+        "frame": 422,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00422",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00422.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 12,
+          "frameInVolume": 8,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012_p0008.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 428,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00428",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00428.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 12,
+          "frameInVolume": 14,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012_p0014.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 438,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00438",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00438.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 12,
+          "frameInVolume": 24,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012_p0024.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 446,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00446",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00446.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 12,
+          "frameInVolume": 32,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012_p0032.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0012/he13_03123_0012.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "六編下",
+    "firstFrame": 453,
+    "lastFrame": 487,
+    "figures": [
+      {
+        "frame": 455,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00455",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00455.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 13,
+          "frameInVolume": 3,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013_p0003.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 460,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00460",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00460.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 13,
+          "frameInVolume": 8,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013_p0008.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 467,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00467",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00467.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 13,
+          "frameInVolume": 15,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013_p0015.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 473,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00473",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00473.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 13,
+          "frameInVolume": 21,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013_p0021.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 480,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00480",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00480.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 13,
+          "frameInVolume": 28,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013_p0028.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0013/he13_03123_0013.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "七編上",
+    "firstFrame": 488,
+    "lastFrame": 520,
+    "figures": [
+      {
+        "frame": 491,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00491",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00491.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 14,
+          "frameInVolume": 4,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014_p0004.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 492,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00492",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00492.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 14,
+          "frameInVolume": 7,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014_p0007.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 499,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00499",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00499.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 14,
+          "frameInVolume": 14,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014_p0014.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 504,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00504",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00504.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 14,
+          "frameInVolume": 19,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014_p0019.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 507,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00507",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00507.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 14,
+          "frameInVolume": 22,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014_p0022.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 516,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00516",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00516.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 14,
+          "frameInVolume": 31,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014_p0031.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0014/he13_03123_0014.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "七編下",
+    "firstFrame": 521,
+    "lastFrame": 561,
+    "figures": [
+      {
+        "frame": 524,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00524",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00524.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 15,
+          "frameInVolume": 4,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015_p0004.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 529,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00529",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00529.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 15,
+          "frameInVolume": 9,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015_p0009.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 534,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00534",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00534.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 15,
+          "frameInVolume": 14,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015_p0014.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 546,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00546",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00546.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 15,
+          "frameInVolume": 26,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015_p0026.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 550,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00550",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00550.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 15,
+          "frameInVolume": 30,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015_p0030.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 557,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00557",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00557.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 15,
+          "frameInVolume": 37,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015_p0037.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0015/he13_03123_0015.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "八編上",
+    "firstFrame": 562,
+    "lastFrame": 595,
+    "figures": [
+      {
+        "frame": 566,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00566",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00566.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 16,
+          "frameInVolume": 7,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016_p0007.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 571,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00571",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00571.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 16,
+          "frameInVolume": 12,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016_p0012.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 579,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00579",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00579.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 16,
+          "frameInVolume": 20,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016_p0020.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 584,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00584",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00584.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 16,
+          "frameInVolume": 25,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016_p0025.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 587,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00587",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00587.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 16,
+          "frameInVolume": 28,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016_p0028.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 591,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/001_00591",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_001_00591.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 16,
+          "frameInVolume": 31,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016_p0031.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0016/he13_03123_0016.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "八編中",
+    "firstFrame": 596,
+    "lastFrame": 623,
+    "figures": [
+      {
+        "frame": 599,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00004",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00004.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 17,
+          "frameInVolume": 4,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017_p0004.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 604,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00009",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00009.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 17,
+          "frameInVolume": 9,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017_p0009.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 608,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00013",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00013.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 17,
+          "frameInVolume": 13,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017_p0013.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 612,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00017",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00017.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 17,
+          "frameInVolume": 17,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017_p0017.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 616,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00021",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00021.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 17,
+          "frameInVolume": 21,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017_p0021.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0017/he13_03123_0017.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  },
+  {
+    "volume": "八編下",
+    "firstFrame": 624,
+    "lastFrame": 668,
+    "figures": [
+      {
+        "frame": 627,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00032",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00032.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 4,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0004.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 632,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00037",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00037.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 9,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0009.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 638,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00043",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00043.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 15,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0015.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 646,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00051",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00051.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 23,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0023.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 650,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00055",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00055.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 27,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0027.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 656,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00061",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00061.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 33,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0033.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      },
+      {
+        "frame": 662,
+        "canvas": "http://codh.rois.ac.jp/pmjt/iiif/200004002/canvas/002_00067",
+        "image": "https://codh.rois.ac.jp/pmjt/iiif/200004002/200004002_002_00067.tif/full/1600,/0/default.jpg",
+        "alternateWitness": {
+          "holding": "早稲田大学図書館 ヘ13 03123",
+          "volumeIndex": 18,
+          "frameInVolume": 39,
+          "url": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018_p0039.jpg",
+          "gallery": "https://archive.wul.waseda.ac.jp/kosho/he13/he13_03123/he13_03123_0018/he13_03123_0018.html",
+          "use": "比較調査・リンクのみ。画像転載なし。"
+        }
+      }
+    ]
+  }
+]

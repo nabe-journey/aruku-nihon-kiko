@@ -1,0 +1,131 @@
+[
+  {
+    "volume": 1,
+    "part": "發端",
+    "frames": 45,
+    "figureFrames": [
+      3,
+      4,
+      7,
+      8,
+      12,
+      21,
+      29,
+      36
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816501/manifest"
+  },
+  {
+    "volume": 2,
+    "part": "初編",
+    "frames": 47,
+    "figureFrames": [
+      7,
+      8,
+      17,
+      18,
+      30,
+      38
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816502/manifest"
+  },
+  {
+    "volume": 3,
+    "part": "後編（乾・坤）",
+    "frames": 43,
+    "figureFrames": [
+      16,
+      24,
+      38
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816503/manifest"
+  },
+  {
+    "volume": 4,
+    "part": "三編（上・下）",
+    "frames": 36,
+    "figureFrames": [
+      13,
+      25
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816504/manifest"
+  },
+  {
+    "volume": 5,
+    "part": "四編（上・下）",
+    "frames": 38,
+    "figureFrames": [
+      4,
+      11,
+      19,
+      28
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816505/manifest"
+  },
+  {
+    "volume": 6,
+    "part": "五編上",
+    "frames": 40,
+    "figureFrames": [
+      5,
+      8,
+      15,
+      22,
+      29
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816506/manifest"
+  },
+  {
+    "volume": 7,
+    "part": "五編下",
+    "frames": 38,
+    "figureFrames": [
+      5,
+      13,
+      22
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816507/manifest"
+  },
+  {
+    "volume": 8,
+    "part": "六編（上・下）",
+    "frames": 38,
+    "figureFrames": [
+      4,
+      8,
+      14,
+      20,
+      26,
+      32
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816508/manifest"
+  },
+  {
+    "volume": 9,
+    "part": "七編（上・下）",
+    "frames": 43,
+    "figureFrames": [
+      6,
+      12,
+      18,
+      22,
+      29,
+      39
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816509/manifest"
+  },
+  {
+    "volume": 10,
+    "part": "八編（上・中・下）",
+    "frames": 50,
+    "figureFrames": [
+      5,
+      6,
+      12,
+      15,
+      18,
+      24
+    ],
+    "manifest": "https://www.dl.saga-u.ac.jp/N0202816510/manifest"
+  }
+]

@@ -1,0 +1,275 @@
+{
+  "baseline": "a5e108f8755ea0ae5f7440b89f63055b46b91cab",
+  "files": [
+    {
+      "path": "css/style.css",
+      "sizeBytes": 13346,
+      "sha256": "e6ffad82df15d3472a9108fb4e8a5ca9ee7efb83f8e7c37505b9c538067055e1",
+      "baselineSha256": "ea9d1151f2d4c939c5071855d4d831f86926646c6105e8f42a415df1d888159b"
+    },
+    {
+      "path": "data/hizakurige.json",
+      "sizeBytes": 495039,
+      "sha256": "8af49ef4e7c9d681f949033cf86130700f8265a0601e8426f3828e164ca181be",
+      "baselineSha256": "6aa7e269eca94038f09bf5d7197e9f18c5c20252d1fb385bb5190b9044a05e68"
+    },
+    {
+      "path": "docs/CHANGELOG.md",
+      "sizeBytes": 1808,
+      "sha256": "1d20460eef99a6f70b0ac016ef3df3f82716612f42b8236573f57011dbfb518c",
+      "baselineSha256": "684da7ff168a961befafc39653c153d4a00b995a621f9af267e3824503d30c9c"
+    },
+    {
+      "path": "docs/HIZAKURIGE_ILLUSTRATION_AUDIT.md",
+      "sizeBytes": 21187,
+      "sha256": "cb76be539bfc29b0955a62b6ef0db1ffdf2849e3266f0111469e50a91f449206",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/IMAGE_LICENSES.md",
+      "sizeBytes": 130316,
+      "sha256": "ea750623b1a5b7bd71d63b6ed932258b4ca469b9f3bb24b504ef35e06d16776f",
+      "baselineSha256": "4d1dea9ba2b1f3009e964837c0f91c01e4ac85b49dba870303e44e3808821d9c"
+    },
+    {
+      "path": "docs/QA.md",
+      "sizeBytes": 9678,
+      "sha256": "02d164adf537ed7c6f4021c47c511f6e58c9c031ec47fa4c315c8c251d02e58c",
+      "baselineSha256": "76d1c8e259e7e3fdc8b4d8c22a46d0392d87167a15900fbb7df772f85ec87c5e"
+    },
+    {
+      "path": "docs/RESUME.md",
+      "sizeBytes": 8677,
+      "sha256": "76d4d79beaa713c86df000f23ee97b76c6c358359e517e0912d9090f73c3f467",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/SOURCES.md",
+      "sizeBytes": 19150,
+      "sha256": "11382c73197fb0ffa3b0219af951091555a93514f8a0a4343d93d070cbf1f5a1",
+      "baselineSha256": "ffcc8791f3431628b33499ce719379f3d24d1bf2b182c1331515d7bbb9ced4f9"
+    },
+    {
+      "path": "docs/UPDATE_REPORT.md",
+      "sizeBytes": 5277,
+      "sha256": "f1300a38c5f75e54329273b33c2a7cbbe81e05e1fdaccb478ccb38867d06fac0",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/hizakurige-data-test-results.json",
+      "sizeBytes": 778,
+      "sha256": "19a50f13cbba6dc4e9e0b733735ff26ea4a8b74d56f65c86b7c036e19e871001",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/hizakurige-figure-inventory.json",
+      "sizeBytes": 57075,
+      "sha256": "9ab622dcebf86a7caf23ad77744ed0385f08d529b4ab5aeb497206cd66376c79",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/hizakurige-reading-review.json",
+      "sizeBytes": 50304,
+      "sha256": "c508a5f64e70394e7c8df3ad78c86931ec2f7d29a43dd6833f0f5387950d1360",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/hizakurige-update-test-results.json",
+      "sizeBytes": 7563,
+      "sha256": "f30acc549184cbb141caf108029720776b6de4a113da07cfbdda5f428488fe05",
+      "baselineSha256": null
+    },
+    {
+      "path": "docs/image-licenses.json",
+      "sizeBytes": 281096,
+      "sha256": "0fd2f1b612a5f3308fc2efb1a0e53ba1e1c34b65ee0229297d25b2aa18acab8f",
+      "baselineSha256": "84be161f81afcdb3e0915fb67e5d7d17be631ecf0035df077f47b61dad2d3c6b"
+    },
+    {
+      "path": "images/hizakurige/book_131.webp",
+      "sizeBytes": 240246,
+      "sha256": "dd4b5540bda3fe13b24366b103caa924102b13aba3d31ffae9823541c364ba85",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_143.webp",
+      "sizeBytes": 275210,
+      "sha256": "f6be7371dca6aa7ae63b9fa181f86fe10996984a3c53e091695ec0c2a2575b5e",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_166.webp",
+      "sizeBytes": 250652,
+      "sha256": "59414dd33d4b2d4827a6b585dc457617289d988ccf8dc7b0afef72d869f0ab49",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_172.webp",
+      "sizeBytes": 256914,
+      "sha256": "c40fcbba07e23757e299c376d292c50c2b8a329252c594830bc0cf2dd99897a7",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_181.webp",
+      "sizeBytes": 225802,
+      "sha256": "d93b85a6dae145c8b5c05c41e8e0170a0d7c266747ae420106828b77ef1ab5bf",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_191.webp",
+      "sizeBytes": 276562,
+      "sha256": "7717025894d8d85794cfc04ba544cb9bdee5470fd2d34f3939802552f022a392",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_215.webp",
+      "sizeBytes": 246726,
+      "sha256": "4f67bccebf78f292b2059eb91a640cd86abe4e9722b134bdfa087718f2c8abb2",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_264.webp",
+      "sizeBytes": 236838,
+      "sha256": "13416b8c0437c5802e6fbd65654047db1c80932a0e8504d9ed2cf48789821fa1",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_281.webp",
+      "sizeBytes": 262542,
+      "sha256": "b00090a2fa4e1031d7903f0d304af085d72b14a42f6bbe6d8a812fa46c4ad22a",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_297.webp",
+      "sizeBytes": 205024,
+      "sha256": "046f0ead898f91b96b704c2450bc6b9e9320318d0fc198bc6366c3442d918ee7",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_309.webp",
+      "sizeBytes": 212984,
+      "sha256": "470ed2d986434ebc7acdae2866dc35343fa024f1636728f57f8434571431d786",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_333.webp",
+      "sizeBytes": 255744,
+      "sha256": "ba5bd4bcad49889ce5bcbcf52ce3bf56ac07f837eba9114aa4644108a77c9ba7",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_339.webp",
+      "sizeBytes": 220538,
+      "sha256": "8c4b23155f9ad00cc1c559f07dcbb8c9499d01145a56659a31734ce60a6b3a40",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_339.webp.tmp",
+      "sizeBytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_375.webp",
+      "sizeBytes": 248146,
+      "sha256": "3a4cd4ab891e0fb6a23b160c690e2f59697e05e6f5ad16165459eb29ced5ffe3",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_460.webp",
+      "sizeBytes": 195148,
+      "sha256": "f5d7288f3b6b2057a017cc8c30c76373d7abbd98f2e6f27d06028572fe5f2056",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_524.webp",
+      "sizeBytes": 233956,
+      "sha256": "a4c247ec2dfde3be59dc4340ff3dfbf8a214aa8c61840cafcecb21c9d2364e0b",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_529.webp",
+      "sizeBytes": 223770,
+      "sha256": "ce147b4921276f45f1e65da66eebf435333aee0040007eb15f9d46f862f1ff1b",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_566.webp",
+      "sizeBytes": 270906,
+      "sha256": "525921a4613579d74b6f47276148773476ba063f19b673d901bf4a31cc71f631",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_571.webp",
+      "sizeBytes": 233986,
+      "sha256": "77c02ff1618dbda253fc7f40e53847030f490be6d670def8e2f8cad61d097f7c",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_616.webp",
+      "sizeBytes": 253854,
+      "sha256": "ee5b7176640b9c09b8dbe50d966a563301375f2a579764eb51e9379ce1ae307c",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_627.webp",
+      "sizeBytes": 198772,
+      "sha256": "8f649a007bc1e8cdf3d05087f74cdee7163dd3d435a093c1a0230c5926a49e5b",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_63.webp",
+      "sizeBytes": 217626,
+      "sha256": "c99facda264ec079e55493b5e20160460e59befa897d5f07724cd106e9b22816",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_656.webp",
+      "sizeBytes": 253466,
+      "sha256": "053c2490657dabd6eb0407b0132df8ac0a26dba353c6a9abb59fd51d89b73164",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_662.webp",
+      "sizeBytes": 277518,
+      "sha256": "897ddbe31b6d73804c7dd15542b78169e4fbf917f9ae54ac9f3cafd8cf772018",
+      "baselineSha256": null
+    },
+    {
+      "path": "images/hizakurige/book_99.webp",
+      "sizeBytes": 221560,
+      "sha256": "7a056a06a55a98603ebf7b4143541f9fe82fe4dd7469a20c83048231627af0cc",
+      "baselineSha256": null
+    },
+    {
+      "path": "js/app.js",
+      "sizeBytes": 37764,
+      "sha256": "906fa0e51e69198c689ea574a11bdbdc0eae33621cbd558be1d3d0b1d68e5b21",
+      "baselineSha256": "372ba31416dbf41ce5bdb6126fe20ea9145fa928061e35aa5d52b5bde6cbcdf7"
+    },
+    {
+      "path": "sw.js",
+      "sizeBytes": 2518,
+      "sha256": "f6affbfcc8c7b43ccb37633d5b3d88c399aa8e5e03b0fe4735eebaacb32f2b59",
+      "baselineSha256": "c2bf34317670efda3ddaff9a75a297f6ec6fcb4e3d609e3e59914131b8de0e80"
+    },
+    {
+      "path": "tools/package-update.py",
+      "sizeBytes": 3246,
+      "sha256": "baaa8b2f8647e34a4d5dc4f6bbc2ac44196eaaa081d97fbf97184917ccbd4583",
+      "baselineSha256": null
+    },
+    {
+      "path": "tools/verify-data.py",
+      "sizeBytes": 3395,
+      "sha256": "5e5796cdee441dac6e2606fd56d7db3ce291882eb82275ab42cf41a4b24e4093",
+      "baselineSha256": null
+    },
+    {
+      "path": "tools/verify-update.cjs",
+      "sizeBytes": 13208,
+      "sha256": "85445fc70f4a50331dc8d99cd8a6ca430d24425e7de161f1fea570029732550c",
+      "baselineSha256": null
+    }
+  ]
+}

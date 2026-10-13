@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-13",
+  "status": "passed",
+  "baseline": "a5e108f8755ea0ae5f7440b89f63055b46b91cab",
+  "counts": {
+    "readings": 58,
+    "illustratedReadings": 23,
+    "linkedOriginalImages": 26,
+    "sceneIllustrations": 22,
+    "originalContextIllustrations": 4,
+    "reviewedReadings": 58,
+    "readingsWithoutLinkedImage": 35,
+    "newImageFiles": 25,
+    "hiroshigeCommentaries": 44
+  },
+  "checks": [
+    "all original reading fields unchanged",
+    "route/IDs/distances unchanged",
+    "storage/map/other-course/original text bytes unchanged",
+    "all previously tracked image bytes unchanged",
+    "all image bytes/dimensions/sizes verified",
+    "paragraph anchors valid",
+    "caption/commentary length ranges met",
+    "machine-readable licenses agree"
+  ]
+}

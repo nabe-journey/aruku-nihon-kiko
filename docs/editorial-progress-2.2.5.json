@@ -1,0 +1,1136 @@
+{
+  "version": "2.2.5-editorial-checkpoint",
+  "baseline": "2.2.4-editorial-reviewed",
+  "all58KeysAndDataChecked": true,
+  "sourceTextEntirelyProofread": false,
+  "allHistoricalWitnessesChecked": false,
+  "rewrittenOrExtendedChapters": 10,
+  "rewrittenChapterIds": [
+    "kawasaki",
+    "kanagawa",
+    "totsuka",
+    "fujisawa",
+    "mishima",
+    "kanbara",
+    "nissaka",
+    "narumi",
+    "kyoto-buddha",
+    "kyoto-ladder"
+  ],
+  "existingIllustrationCount": 27,
+  "status": "改訂10篇・追加場面を原文の対応箇所と照合／全58篇の完全な逐語校合・新原作挿絵の追加調査は未完了",
+  "readings": [
+    {
+      "order": 1,
+      "readingId": "departure",
+      "title": "風呂敷ひとつの旅立ち",
+      "rawKeys": [
+        "01-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 3,
+      "currentModernCharacters": 578,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 2,
+      "readingId": "shinagawa",
+      "title": "海辺の品川、麦藁細工の大森",
+      "rawKeys": [
+        "01-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 3,
+      "currentModernCharacters": 455,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 3,
+      "readingId": "kawasaki",
+      "title": "奈良茶飯と、行列の言葉遊び",
+      "rawKeys": [
+        "01-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 879,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文中の省略場面を増補",
+        "originalKeys": [
+          "01-03"
+        ],
+        "textEvidenceTokens": [
+          "馬かた「おや方かへり馬",
+          "馬（むま）の糞（くそ）",
+          "金川（かながは）の台"
+        ],
+        "explanation": "行列のあとに続く帰り馬と馬方の会話を回復。国文研51コマは場面図の候補だが新規画像は未取得。",
+        "newParagraphs": 2,
+        "secondPass": {
+          "kind": "原文照合による文意修正",
+          "originalKeys": [
+            "01-03"
+          ],
+          "textEvidenceTokens": [
+            "馬（むま）の糞（くそ）"
+          ],
+          "explanation": "2.2.5の下書きで「菓子と誤認」としていた説明を、原文の馬方の騒ぎに沿うよう修正",
+          "newParagraphs": 0
+        }
+      },
+      "reviewState": "原文の該当箇所を照合し、明確な省略場面を増補。原文全文の逐語校合は別途必要",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 4,
+      "readingId": "kanagawa",
+      "title": "景色はよいが、鰺の味は",
+      "rawKeys": [
+        "01-04"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 762,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文中の省略場面を増補",
+        "originalKeys": [
+          "01-04"
+        ],
+        "textEvidenceTokens": [
+          "いせ参跡",
+          "もちよヲかつてくれさい",
+          "あたり申さない"
+        ],
+        "explanation": "神奈川の鰺の話のあとに原文で続く、伊勢参りの子どものやり取りを増補。",
+        "newParagraphs": 1
+      },
+      "reviewState": "増補・改稿（原文引用箇所を照合）",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 5,
+      "readingId": "hodogaya",
+      "title": "泊まれ、泊まれと引き止められ",
+      "rawKeys": [
+        "01-05"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 547,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 6,
+      "readingId": "totsuka",
+      "title": "親子のふりと、ただの酒",
+      "rawKeys": [
+        "01-06"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 727,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文中の省略場面を増補",
+        "originalKeys": [
+          "01-06"
+        ],
+        "textEvidenceTokens": [
+          "三文つりをよこせ",
+          "ちよんがれぼうず"
+        ],
+        "explanation": "戸塚の翌朝と四文銭の落ちを追加。子が父を装う場面から次の旅へつながる。",
+        "newParagraphs": 1
+      },
+      "reviewState": "増補・改稿（原文引用箇所を照合）",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 7,
+      "readingId": "fujisawa",
+      "title": "江の島の道を聞いたのに",
+      "rawKeys": [
+        "01-07"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 776,
+      "illustrations": [
+        "book-63"
+      ],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文中の省略場面を増補",
+        "originalKeys": [
+          "01-07"
+        ],
+        "textEvidenceTokens": [
+          "三百五十",
+          "片棒わしがかついで",
+          "道中記（だうちうき）"
+        ],
+        "explanation": "藤沢の茶屋を出た後の駕籠の値切りと、道中記で知ったかぶりする落ちを増補。",
+        "newParagraphs": 1
+      },
+      "reviewState": "増補・改稿（原文引用箇所を照合）",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 8,
+      "readingId": "hiratsuka",
+      "title": "川の名と、首が飛ぶ話",
+      "rawKeys": [
+        "01-08"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 468,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 9,
+      "readingId": "oiso",
+      "title": "といて、かけて、長い謎",
+      "rawKeys": [
+        "01-09"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 556,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 10,
+      "readingId": "bath",
+      "title": "五右衛門風呂で大騒動",
+      "rawKeys": [
+        "01-10"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 727,
+      "illustrations": [
+        "book-71"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 11,
+      "readingId": "hakone",
+      "title": "三百文の品を、四百文で",
+      "rawKeys": [
+        "01-10"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 514,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 12,
+      "readingId": "mishima",
+      "title": "白い手拭いのはずが",
+      "rawKeys": [
+        "02-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 6,
+      "currentModernCharacters": 837,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文で確認できる場面の増補",
+        "originalKeys": [
+          "02-01"
+        ],
+        "textEvidenceTokens": [
+          "くもすけども",
+          "十吉",
+          "すつぽんをとらへて"
+        ],
+        "explanation": "褌騒ぎの後に続く茶屋の雲助と十吉との見栄の張り合いを回復。三島着の直前まで。",
+        "newParagraphs": 2
+      },
+      "reviewState": "原文の該当箇所を照合し、明確な省略場面を増補。原文全文の逐語校合は別途必要",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 13,
+      "readingId": "numazu",
+      "title": "旅の金が、石ころになった",
+      "rawKeys": [
+        "02-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 565,
+      "illustrations": [
+        "book-99"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 14,
+      "readingId": "hara",
+      "title": "百文の巾着と、そばの湯",
+      "rawKeys": [
+        "02-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 563,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 15,
+      "readingId": "sweets",
+      "title": "二五の三文？ 菓子屋の勘定",
+      "rawKeys": [
+        "02-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 530,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 16,
+      "readingId": "kanbara",
+      "title": "風が吹いたから、箱屋を始めた",
+      "rawKeys": [
+        "02-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 8,
+      "currentModernCharacters": 1293,
+      "illustrations": [
+        "book-131"
+      ],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文中の省略場面を増補",
+        "originalKeys": [
+          "02-03"
+        ],
+        "textEvidenceTokens": [
+          "雷どのをむこにとつた",
+          "ふんどしを鼠にひかれた",
+          "ふと棹（ざほ）"
+        ],
+        "explanation": "箱屋の話だけになっていた木賃宿の大きな事件と喜多八の落ちを原文に沿って復元。",
+        "newParagraphs": 3
+      },
+      "reviewState": "増補・改稿（原文引用箇所を照合）",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 17,
+      "readingId": "yui",
+      "title": "壺焼きの海から、雨の峠へ",
+      "rawKeys": [
+        "02-04"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 458,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 18,
+      "readingId": "okitsu",
+      "title": "黄な粉だと思った団子",
+      "rawKeys": [
+        "02-04"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 519,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 19,
+      "readingId": "ejiri",
+      "title": "親切な客と、親切な馬方",
+      "rawKeys": [
+        "02-05"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 538,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 20,
+      "readingId": "fuchu",
+      "title": "深い川を、肩車で",
+      "rawKeys": [
+        "02-06"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 595,
+      "illustrations": [
+        "book-143"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 21,
+      "readingId": "tororo",
+      "title": "とろろ汁は、食べる前に",
+      "rawKeys": [
+        "02-07"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 680,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 22,
+      "readingId": "okabe",
+      "title": "川明けの朝、ねぎまを頼む",
+      "rawKeys": [
+        "03-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 541,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 23,
+      "readingId": "fujieda",
+      "title": "ご馳走のはずが、勘定は誰に",
+      "rawKeys": [
+        "03-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 598,
+      "illustrations": [
+        "book-166"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 24,
+      "readingId": "shimada",
+      "title": "即席の侍、刀の先が折れる",
+      "rawKeys": [
+        "03-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 585,
+      "illustrations": [
+        "book-172"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 25,
+      "readingId": "kanaya",
+      "title": "底の抜けた駕籠",
+      "rawKeys": [
+        "03-04"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 563,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 26,
+      "readingId": "nissaka",
+      "title": "薬を飲むはずが、観音様",
+      "rawKeys": [
+        "03-05"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 8,
+      "currentModernCharacters": 1122,
+      "illustrations": [
+        "book-181"
+      ],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文で確認できる場面の増補",
+        "originalKeys": [
+          "03-05"
+        ],
+        "textEvidenceTokens": [
+          "おむすを",
+          "いち子のばば",
+          "口をよせたることぞくやしき"
+        ],
+        "explanation": "亡妻の口寄せ以降の酒盛り・暗がりでの取り違えの大きな結末を回復。",
+        "newParagraphs": 2
+      },
+      "reviewState": "原文の該当箇所を照合し、明確な省略場面を増補。原文全文の逐語校合は別途必要",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 27,
+      "readingId": "kakegawa",
+      "title": "背負ってもらう相手をすり替え",
+      "rawKeys": [
+        "03-06"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 571,
+      "illustrations": [
+        "book-191"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 28,
+      "readingId": "fukuroi",
+      "title": "江戸の通人を気取ったが",
+      "rawKeys": [
+        "03-07"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 572,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 29,
+      "readingId": "mitsuke",
+      "title": "大所帯の旦那、米の値段に詰まる",
+      "rawKeys": [
+        "03-08"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 593,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 30,
+      "readingId": "hamamatsu",
+      "title": "白い幽霊の正体",
+      "rawKeys": [
+        "03-09"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 588,
+      "illustrations": [
+        "book-215"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 31,
+      "readingId": "maisaka",
+      "title": "船で逃げた蛇と、浮く脇差",
+      "rawKeys": [
+        "03-10"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 647,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 32,
+      "readingId": "arai",
+      "title": "一足の草鞋で、どこまでも？",
+      "rawKeys": [
+        "04-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 505,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 33,
+      "readingId": "shirasuka",
+      "title": "拾った銭で、酒をおごったが",
+      "rawKeys": [
+        "04-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 495,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 34,
+      "readingId": "futagawa",
+      "title": "抜いてみたら、竹の刀",
+      "rawKeys": [
+        "04-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 471,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 35,
+      "readingId": "yoshida",
+      "title": "義経一行と、芝居を信じた村",
+      "rawKeys": [
+        "04-04"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 472,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 36,
+      "readingId": "goyu",
+      "title": "友だちを、狐だと思い込む",
+      "rawKeys": [
+        "04-05"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 483,
+      "illustrations": [
+        "book-264"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 37,
+      "readingId": "akasaka",
+      "title": "悪口に、自分から名乗り出る",
+      "rawKeys": [
+        "04-06"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 475,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 38,
+      "readingId": "fujikawa",
+      "title": "悪ふざけを、病のふりで取り繕う",
+      "rawKeys": [
+        "04-07"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 476,
+      "illustrations": [
+        "book-281"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 39,
+      "readingId": "okazaki",
+      "title": "三文の餅を、二文で買う算段",
+      "rawKeys": [
+        "04-08"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 454,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 40,
+      "readingId": "chiryu",
+      "title": "草履は、片方だけでは履けない",
+      "rawKeys": [
+        "04-09"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 464,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 41,
+      "readingId": "narumi",
+      "title": "布の値段を聞いているのに",
+      "rawKeys": [
+        "04-09",
+        "04-10"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 551,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文に沿った全面改稿",
+        "originalKeys": [
+          "04-09",
+          "04-10"
+        ],
+        "textEvidenceTokens": [
+          "十四匁八分",
+          "二しやく五寸",
+          "しやうぎ"
+        ],
+        "explanation": "抽象的だった有松絞りの会話を、原文にある値段・購入品・捨て台詞の順で具体化。将棋の「歩」が原文から未確認だったため削除。",
+        "newParagraphs": 5
+      },
+      "reviewState": "増補・改稿（原文引用箇所を照合）",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 42,
+      "readingId": "boat",
+      "title": "船の上の、竹筒の使い方",
+      "rawKeys": [
+        "04-11"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 603,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 43,
+      "readingId": "kuwana",
+      "title": "半日交替の旦那と供、熱い蛤",
+      "rawKeys": [
+        "05-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 464,
+      "illustrations": [
+        "book-297"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 44,
+      "readingId": "manju",
+      "title": "饅頭の食べ比べと、大津の釜七",
+      "rawKeys": [
+        "05-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 758,
+      "illustrations": [
+        "book-309"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 45,
+      "readingId": "ise-road",
+      "title": "伊勢へ曲がる道、何度も馬を下ろされ",
+      "rawKeys": [
+        "05-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 449,
+      "illustrations": [
+        "book-333"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 46,
+      "readingId": "ise-shiroko",
+      "title": "落ちた煙草入れが、するすると",
+      "rawKeys": [
+        "05-04"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 475,
+      "illustrations": [
+        "book-339"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 47,
+      "readingId": "ise-tsu",
+      "title": "人の煙草と、作者のふり",
+      "rawKeys": [
+        "05-05"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 9,
+      "currentModernCharacters": 1468,
+      "illustrations": [
+        "book-349"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 48,
+      "readingId": "ise-matsusaka",
+      "title": "歌の稽古と、後ろからの竹",
+      "rawKeys": [
+        "05-06"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 482,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 49,
+      "readingId": "ise-shrine",
+      "title": "参宮の駕籠が、違う組へ",
+      "rawKeys": [
+        "05-09"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 598,
+      "illustrations": [
+        "book-375"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 50,
+      "readingId": "kyoto-fushimi",
+      "title": "京都の前に、大坂へ行こうか",
+      "rawKeys": [
+        "06-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 484,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 51,
+      "readingId": "wrong-boat",
+      "title": "大坂のはずが、また伏見",
+      "rawKeys": [
+        "06-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 407,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 52,
+      "readingId": "kyoto-buddha",
+      "title": "柱の穴から、出られない",
+      "rawKeys": [
+        "06-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 7,
+      "currentModernCharacters": 969,
+      "illustrations": [
+        "book-460"
+      ],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文で確認できる場面の増補",
+        "originalKeys": [
+          "06-02"
+        ],
+        "textEvidenceTokens": [
+          "五条新地",
+          "吉弥",
+          "ぐるぐるまきにしばり",
+          "もめんがつぱ"
+        ],
+        "explanation": "次篇「安い綿入れ」の理由となる衣服喪失の顛末を復元。もとの挿絵は柱くぐりのまま維持。",
+        "newParagraphs": 3
+      },
+      "reviewState": "原文の該当箇所を照合し、明確な省略場面を増補。原文全文の逐語校合は別途必要",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 53,
+      "readingId": "kyoto-clothes",
+      "title": "安い綿入れの背に、大きな紋",
+      "rawKeys": [
+        "07-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 486,
+      "illustrations": [],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 54,
+      "readingId": "kyoto-ladder",
+      "title": "梯子で返事、鐘のない坊さん",
+      "rawKeys": [
+        "07-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 6,
+      "currentModernCharacters": 769,
+      "illustrations": [
+        "book-524",
+        "book-529"
+      ],
+      "sourceCheckedForThisRevision": true,
+      "editorialChange": {
+        "kind": "原文で確認できる場面の増補",
+        "originalKeys": [
+          "07-02"
+        ],
+        "textEvidenceTokens": [
+          "梯子（はしご）を預",
+          "馬のかげ",
+          "しやアしやアしやア"
+        ],
+        "explanation": "長い梯子が荷物になり、預けた茶屋から馬の陰を使って逃げる原文の落ちを補完。",
+        "newParagraphs": 2
+      },
+      "reviewState": "原文の該当箇所を照合し、明確な省略場面を増補。原文全文の逐語校合は別途必要",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 55,
+      "readingId": "osaka-arrival",
+      "title": "同行四十七人、と言ってみる",
+      "rawKeys": [
+        "08-01"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 497,
+      "illustrations": [
+        "book-571",
+        "book-566"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 56,
+      "readingId": "osaka-night",
+      "title": "まだ受け取らぬ百両で、身支度",
+      "rawKeys": [
+        "08-02"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 7,
+      "currentModernCharacters": 926,
+      "illustrations": [
+        "book-616"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 57,
+      "readingId": "osaka-lottery",
+      "title": "百両は、十二支が違っていた",
+      "rawKeys": [
+        "08-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 4,
+      "currentModernCharacters": 520,
+      "illustrations": [
+        "book-627"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    },
+    {
+      "order": 58,
+      "readingId": "sumiyoshi-ending",
+      "title": "住吉の雷雨、長町へ帰る",
+      "rawKeys": [
+        "08-03"
+      ],
+      "rawKeysPresent": true,
+      "currentModernParagraphs": 5,
+      "currentModernCharacters": 654,
+      "illustrations": [
+        "book-662",
+        "book-656"
+      ],
+      "sourceCheckedForThisRevision": false,
+      "editorialChange": null,
+      "reviewState": "2.2.4の文章を維持。原文全文の逐語校合は未完了",
+      "historicalPrintEditionVerification": "国文研紙屋利助版の刊年・刷年・丁付は未確定"
+    }
+  ]
+}

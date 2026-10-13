@@ -1,0 +1,8 @@
+{
+  "version": "2.2.5",
+  "test": "actual headless desktop and mobile Chromium (not physical device)",
+  "checks": [],
+  "pageErrors": [],
+  "status": "failed",
+  "error": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at http://127.0.0.1:8877/aruku-nihon-kiko/\nCall log:\n  - navigating to \"http://127.0.0.1:8877/aruku-nihon-kiko/\", waiting until \"domcontentloaded\"\n"
+}

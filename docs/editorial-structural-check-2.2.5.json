@@ -1,0 +1,42 @@
+{
+  "version": "2.2.5-editorial-checkpoint",
+  "runDateJST": "2026-10-13",
+  "status": "passed",
+  "baseline": "2.2.4-editorial-reviewed",
+  "readings": 58,
+  "changedReadings": 10,
+  "changedIds": [
+    "kawasaki",
+    "kanagawa",
+    "totsuka",
+    "fujisawa",
+    "mishima",
+    "kanbara",
+    "nissaka",
+    "narumi",
+    "kyoto-buddha",
+    "kyoto-ladder"
+  ],
+  "unchangedReadings": 48,
+  "linkedOriginalIllustrations": 27,
+  "hiroshigeAppreciations": 44,
+  "imageFilesDecoded": 103,
+  "newArtworkFiles": 0,
+  "checks": [
+    "chapter IDs and course and map data unchanged",
+    "all 58 linked raw-text keys present",
+    "all non-modern reading fields bytewise-equivalent JSON to baseline",
+    "illustration paragraph anchors in range",
+    "all original image metadata and bytes unchanged",
+    "all 44 Hiroshige commentaries unchanged",
+    "all 103 image files decoded with PIL and metadata matches",
+    "old storage and other route modules unchanged",
+    "cache keys synchronized at 2.2.5"
+  ],
+  "notVerified": [
+    "complete literary source collations for all 58 chapters",
+    "external rare-book witnesses and Edo-era printing date",
+    "Android/iOS physical device rendering",
+    "new reliable original illustrations"
+  ]
+}

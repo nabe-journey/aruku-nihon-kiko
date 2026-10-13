@@ -7,3 +7,19 @@ body:has(dialog[open]){overflow:hidden}
 .traveler{width:122px;height:91px;object-fit:contain;object-position:center bottom}.journey-track{padding-top:96px}
 
 img{height:auto}.image-unavailable{background:var(--panel);color:var(--muted);font-size:13px;padding:16px;line-height:1.7;min-height:75px;overflow-wrap:anywhere}
+
+/* 原作版本の段落挿絵と浮世絵鑑賞。既存の本文・記録画面の書式は維持。 */
+.reading-illustrations{display:grid;gap:18px;margin:22px 0 30px;min-width:0}.reading-illustrations figure{margin:0}.reading-illustrations img{max-height:none;height:auto;object-fit:contain}.original-illustration .caption{font-size:13px;line-height:1.8}.illustration-description{font-size:16px;line-height:1.9;color:var(--ink);margin:12px 0}.art-appreciation{margin-top:12px}.art-appreciation summary{font-size:15px}.art-text{font-size:var(--font);line-height:2}.art-metadata,.art-note{font-size:14px;line-height:1.8;color:var(--muted)}
+
+.image-edition-note{font-size:14px;line-height:1.8;margin:12px 0}.illustration-review p{line-height:1.9}
+.image-enlarge-button{margin:8px 0;min-height:44px}
+.original-source-details{margin:10px 0;font-size:.88rem}
+.image-enlargement{box-sizing:border-box;width:calc(100% - 24px);max-width:1000px;max-height:92dvh;padding:16px;border:1px solid #ccc;border-radius:12px;background:var(--paper,#f6f2e7);color:inherit}
+.image-enlargement::backdrop{background:rgba(0,0,0,.6)}
+.enlargement-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px}
+.enlargement-toolbar h2{font-size:1.2rem;margin:0}
+.zoom-control{display:flex;align-items:center;gap:12px;margin:12px 0}
+.zoom-control input{flex:1;min-width:0}
+.zoom-control output{min-width:3em}
+.enlargement-viewport{height:60dvh;overflow:auto;background:#fff;overscroll-behavior:contain}
+.enlargement-viewport img{display:block;max-width:none;height:auto}

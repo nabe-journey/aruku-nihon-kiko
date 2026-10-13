@@ -1,0 +1,167 @@
+{
+  "version": "2.2.7-editorial-continuation",
+  "baseline": "2.2.6-editorial-continuation",
+  "chaptersTotal": 58,
+  "previouslyEditedChapters": 27,
+  "newlyEditedChapters": 8,
+  "cumulativeEditedChapters": 35,
+  "cumulativeIds": [
+    "arai",
+    "bath",
+    "fuchu",
+    "fujieda",
+    "fujisawa",
+    "fukuroi",
+    "futagawa",
+    "goyu",
+    "hakone",
+    "hamamatsu",
+    "hiratsuka",
+    "hodogaya",
+    "ise-matsusaka",
+    "ise-shiroko",
+    "ise-shrine",
+    "kakegawa",
+    "kanagawa",
+    "kanbara",
+    "kawasaki",
+    "kuwana",
+    "kyoto-buddha",
+    "kyoto-clothes",
+    "kyoto-ladder",
+    "mishima",
+    "mitsuke",
+    "narumi",
+    "nissaka",
+    "okazaki",
+    "osaka-arrival",
+    "osaka-lottery",
+    "shinagawa",
+    "totsuka",
+    "wrong-boat",
+    "yoshida",
+    "yui"
+  ],
+  "stillWithoutTargetedEditorialChanges": 23,
+  "newChanges": [
+    {
+      "id": "hodogaya",
+      "title": "泊まれ、泊まれと引き止められ",
+      "reference": "01-05",
+      "sourceEvidence": [
+        "馬士（まご）どんおとまりかな",
+        "馬「ヒヒヒン"
+      ],
+      "reason": "旅籠の客引き場面で省略された馬方と馬の掛け合いを復元",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 5,
+      "newParagraphs": 1,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "hamamatsu",
+      "title": "白い幽霊の正体",
+      "reference": "03-09",
+      "sourceEvidence": [
+        "ぼたもちのかんばん",
+        "とんびが来り",
+        "下戸（げこ）"
+      ],
+      "reason": "幽霊騒動の翌朝、木のぼた餅を看板と知らずかじり、本物を鳶に奪われる二段の失敗談を復元",
+      "beforeParagraphs": 5,
+      "afterParagraphs": 7,
+      "newParagraphs": 2,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "arai",
+      "title": "一足の草鞋で、どこまでも？",
+      "reference": "04-01",
+      "sourceEvidence": [
+        "ふた川のかごかき",
+        "四文ぜに壱本",
+        "そしらぬかほ"
+      ],
+      "reason": "次の白須賀篇の銭の発見と酒代騒動の発端となる駕籠の乗換えを補った",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 6,
+      "newParagraphs": 2,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "okazaki",
+      "title": "三文の餅を、二文で買う算段",
+      "reference": "04-08",
+      "sourceEvidence": [
+        "女郎かいのからしり馬",
+        "三味線（さみせん）の駒（こま）"
+      ],
+      "reason": "茶屋の見送りと三味線の駒・馬の洒落を、菓子屋の騒動の前に戻した",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 5,
+      "newParagraphs": 1,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "wrong-boat",
+      "title": "大坂のはずが、また伏見",
+      "reference": "06-01",
+      "sourceEvidence": [
+        "雪隠（せつちん）へゆきたくなつた",
+        "ふろしきづつみ",
+        "獅子鼻",
+        "水ばなをたらして"
+      ],
+      "reason": "船乗換えの具体的原因と、伏見から京都への道中で起きる甘酒屋の小話を復元",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 6,
+      "newParagraphs": 2,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "shinagawa",
+      "title": "海辺の品川、麦藁細工の大森",
+      "reference": "01-02",
+      "sourceEvidence": [
+        "鈴（すず）ヶ森（もり）",
+        "六郷（ろくごう）の渉（わたし）"
+      ],
+      "reason": "名所と歌の紹介を説明調で締めていた段落を、六郷の渡しへ歩く場面として整理",
+      "beforeParagraphs": 3,
+      "afterParagraphs": 3,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "hiratsuka",
+      "title": "川の名と、首が飛ぶ話",
+      "reference": "01-08",
+      "sourceEvidence": [
+        "白旗村（しらはたむら）",
+        "虎（とら）が石"
+      ],
+      "reason": "物語中に原典の解説が入り込む段落を、二人が土地の伝承を歌にする道中風景へ整理",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    },
+    {
+      "id": "yui",
+      "title": "壺焼きの海から、雨の峠へ",
+      "reference": "02-04",
+      "sourceEvidence": [
+        "薩捶峠（さつたとうげ）",
+        "大雨（あめ）ふりいだし"
+      ],
+      "reason": "筋の外側から原典を説明する段落を、峠の雨に難儀する旅の叙述へ整理。興津で次篇の団子事件に自然につながるよう末尾を整理",
+      "beforeParagraphs": 4,
+      "afterParagraphs": 4,
+      "newParagraphs": 0,
+      "illustrationsUnchanged": true
+    }
+  ],
+  "importantEditorialBoundary": "04-09の有松絞り店騒動は次の鳴海篇（narumi）に既収録。重複増補しない。",
+  "notes": "本文は公開翻刻に由来する同梱原文（単一版系列の参考テキスト）と照合。異本の全面校訂・新図像の確定は未了。数値は重点的な段落増補件数で、未改訂篇が検査不合格であることを意味しない。",
+  "illustrations": "27 existing original-edition scenes retained, 0 new primary images added"
+}
